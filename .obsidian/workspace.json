@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "7cf3f7f7263446ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8f52c6423e4381b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8646d094dbc21b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Languages and technologies/JavaScript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript"
+            }
+          },
+          {
+            "id": "d879b85b8a8e1ddf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "959b2daa0f677144",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1c55c676e02e189",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6437b6df18a9e9bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "60ed9fdd18278857",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#to-review",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d2f78f3a93c41eed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "0c166a360206c02f",
+    "type": "split",
+    "children": [
+      {
+        "id": "633c48d6f95375d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5f02ad284f44247",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-git:Open Git source control": true,
+      "workspaces:Manage workspace layouts": true,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8646d094dbc21b11",
+  "lastOpenFiles": [
+    "Computer science/Languages and technologies/JavaScript/JavaScript.md",
+    "Computer science/Languages and technologies/React/React.md",
+    "Computer science/Languages and technologies/TypeScript/TypeScript.md",
+    "README.md",
+    "stuff/Plugins I use.md",
+    "Computer science/Languages and technologies/React",
+    "Computer science/Languages and technologies/TypeScript",
+    "Computer science/Languages and technologies/JavaScript",
+    "Computer science/Abstract",
+    "Computer science/Languages and technologies",
+    "stuff/assets",
+    "Computer science/Operational systems",
+    "Computer science/Computer science knowledge",
+    "Computer science/Algorithms and data structures",
+    "Untitled",
+    "stuff/templates/Base template.md",
+    "2025-03-17.md",
+    "test.md",
+    "Computer science/README.md",
+    "Welcome.md"
+  ]
+}
