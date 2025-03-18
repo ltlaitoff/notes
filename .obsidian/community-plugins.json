@@ -4,5 +4,6 @@
   "workspaces-plus",
   "settings-search",
   "templater-obsidian",
-  "editor-width-slider"
+  "editor-width-slider",
+  "obsidian-kanban"
 ]
