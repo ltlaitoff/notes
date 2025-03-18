@@ -1,4 +1,6 @@
 {
-  "theme": "obsidian",
-  "cssTheme": ""
+  "theme": "moonstone",
+  "cssTheme": "",
+  "baseFontSizeAction": true,
+  "baseFontSize": 22
 }

@@ -3,5 +3,6 @@
   "obsidian-languagetool-plugin",
   "workspaces-plus",
   "settings-search",
-  "templater-obsidian"
+  "templater-obsidian",
+  "editor-width-slider"
 ]

@@ -1,7 +1,6 @@
+`TypeScript` - це надбудова над мовою JavaScript, яка додає в неї статичну типізацію
 
-TypeScript - це надбудова над мовою JavaScript, яка додає в неї статичну типізацію
-
-Після того, як код на TypeScipt був написаний, за домогою [[TypeScript Compiler]] переводиться у звичайний JavaScript 
+Після того, як код на TypeScipt був написаний, за допомогою [[TypeScript Compiler]] переводиться у звичайний JavaScript 
 
 #typescript #to-review
 
