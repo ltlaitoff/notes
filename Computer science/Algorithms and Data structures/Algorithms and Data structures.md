@@ -2,6 +2,7 @@
 
 [[Алгоритм]]
 [[Індекс]]
+
 ##### Види доступу до даних
 
 [[Random access]]
@@ -15,6 +16,7 @@
 
 [[Binary Search]]
 [[Simple Search]]
+[[Selection sort]]
 [[Bubble Sort]]
 [[Quick sort]]
 [[Задача Комівояжера]]

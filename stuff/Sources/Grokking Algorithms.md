@@ -6,6 +6,7 @@
 
 [[Binary Search]]
 [[Simple Search]]
+[[Selection sort]]
 
 [[Random access]]
 [[Sequential access]]

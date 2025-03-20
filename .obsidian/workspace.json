@@ -11,22 +11,14 @@
             "id": "8d6350ca28a5d778",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Computer science/Algorithms and Data structures/_Review kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "stuff/templates/Daily.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-trello",
-              "title": "_Review kanban"
+              "icon": "lucide-file",
+              "title": "Daily"
             }
           },
           {
@@ -103,15 +95,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Algorithms and Data structures/Algorithms/Binary Search.md",
+                "file": "Computer science/Algorithms and Data structures/Algorithms/Selection sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Search"
+              "title": "Selection sort"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -184,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer science/Algorithms and Data structures/_Review kanban.md",
+                "file": "Computer science/Algorithms and Data structures/Algorithms/Selection sort.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of _Review kanban"
+              "title": "Graph of Selection sort"
             }
           },
           {
@@ -236,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Algorithms and Data structures/_Review kanban.md",
+                "file": "Computer science/Algorithms and Data structures/Algorithms/Selection sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +239,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Review kanban"
+              "title": "Backlinks for Selection sort"
             }
           },
           {
@@ -282,8 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 521.5,
-    "collapsed": true
+    "width": 521.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,28 +291,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8d6350ca28a5d778",
+  "active": "9afb3219452a4b68",
   "lastOpenFiles": [
+    "Computer science/Algorithms and Data structures/Big O notation/O(n^2).md",
+    "Computer science/Algorithms and Data structures/Algorithms/Selection sort.md",
+    "stuff/Sources/Grokking Algorithms.md",
+    "Daily notes/20-03-2025.md",
     "Computer science/Algorithms and Data structures/Algorithms and Data structures.md",
+    "Computer science/Algorithms and Data structures/Random access.md",
+    "Computer science/Algorithms and Data structures/Алгоритм.md",
+    "stuff/templates/Daily.md",
+    "Daily notes/2025-03-201.md",
+    "Computer science/Algorithms and Data structures/Algorithms/Binary Search.md",
+    "stuff/assets/Obsidian/Callouts.png",
+    "stuff/assets/Computer Science/Algorithms and data structures/Salesman permutations table.png",
+    "stuff/assets/Computer Science/Algorithms and data structures/Salesman map paths.png",
+    "stuff/assets/Computer Science/Algorithms and data structures/Salesman map.png",
+    "Computer science/Algorithms and Data structures/_Review kanban.md",
+    "Daily notes",
     "Computer science/Algorithms and Data structures/Algorithms/Задача комівояжера.md",
     "Computer science/Algorithms and Data structures/Big O notation/O(n!).md",
-    "stuff/assets/Pasted image 20250320162040.png",
-    "stuff/assets/Pasted image 20250320161855.png",
-    "stuff/assets/Pasted image 20250320161703.png",
-    "Computer science/Algorithms and Data structures/_Review kanban.md",
     "Computer science/Algorithms and Data structures/Data structures/Linked list.md",
     "Computer science/Algorithms and Data structures/Data structures/Array.md",
     "Computer science/Algorithms and Data structures/Algorithms/Simple Search.md",
     "Computer science/Algorithms and Data structures/Algorithms/Реалізація Binary search.md",
     "Computer science/Algorithms and Data structures/Algorithms/Binary search для останього входження в масив.md",
     "Computer science/Algorithms and Data structures/Algorithms/Binary search для першого входження в масив.md",
-    "Computer science/Algorithms and Data structures/Algorithms/Binary Search.md",
     "Computer science/Algorithms and Data structures/Індекс.md",
-    "Computer science/Algorithms and Data structures/Random access.md",
-    "stuff/Sources/Grokking Algorithms.md",
     "Computer science/Algorithms and Data structures/Big O notation/Big O notation.md",
     "stuff/assets/Computer Science/Algorithms and data structures/Arrays and Linked list Big O.png",
-    "stuff/assets/Obsidian/Callouts.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Linked list in memory with links.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Linked list in memory without links example.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Array how saved.png",
@@ -340,12 +339,6 @@
     "Computer science/Algorithms and Data structures/Data structures",
     "Computer science/Algorithms and Data structures/Big O notation/O(log n).md",
     "stuff/templates/Base template.md",
-    "Computer science/Algorithms and Data structures/Алгоритм.md",
-    "Computer science/Algorithms and Data structures/Big O notation/O(1).md",
-    "Computer science/Algorithms and Data structures/Big O notation/O(n^2).md",
-    "Computer science/Algorithms and Data structures/Big O notation/O(n).md",
-    "Computer science/Algorithms and Data structures/Big O notation/O(n log n).md",
-    "Computer science/Algorithms and Data structures/Big O notation/Big O notation.md~",
     "Computer science/Algorithms and Data structures/Untitled.canvas"
   ]
 }
