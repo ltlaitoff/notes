@@ -1,8 +1,14 @@
 **Grokking Algorithms** - це книга про алгоритми
 
-З цієї книги було створено нотатки:
-
 [[Алгоритм]]
+
+[[Big O notation]]
+
 [[Binary Search]]
 [[Simple Search]]
-[[Big O notation]]
+
+[[Random access]]
+[[Sequential access]]
+
+[[Array]]
+[[Linked list]]

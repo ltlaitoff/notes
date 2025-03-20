@@ -11,14 +11,50 @@
             "id": "8d6350ca28a5d778",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Computer science/Algorithms and Data structures/_Review kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "_Review kanban"
+            }
+          },
+          {
+            "id": "30d70e123e06956b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Algorithms and Data structures/Algorithms/Реалізація Binary search.md",
+                "file": "Computer science/Algorithms and Data structures/Algorithms/Задача комівояжера.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Реалізація Binary search"
+              "title": "Задача комівояжера"
+            }
+          },
+          {
+            "id": "22772c0eb7612c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Algorithms and Data structures/Data structures/Array.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Array"
             }
           },
           {
@@ -60,9 +96,22 @@
               "icon": "lucide-image",
               "title": "Callouts"
             }
+          },
+          {
+            "id": "9afb3219452a4b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Algorithms and Data structures/Algorithms/Binary Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Search"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,6 +179,43 @@
         "type": "tabs",
         "children": [
           {
+            "id": "def1869fa8bf2fe8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Computer science/Algorithms and Data structures/_Review kanban.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of _Review kanban"
+            }
+          },
+          {
             "id": "b5f02ad284f44247",
             "type": "leaf",
             "state": {
@@ -150,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/Algorithms and data structures/Big O notation/Час роботи алгоритмів зростає з різною швидкістю при збільшені кількості елементів.md",
+                "file": "Computer science/Algorithms and Data structures/_Review kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +246,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Час роботи алгоритмів зростає з різною швидкістю при збільшені кількості елементів"
+              "title": "Backlinks for _Review kanban"
             }
           },
           {
@@ -196,7 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 521.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -213,49 +299,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c49b3d29022be1dc",
+  "active": "8d6350ca28a5d778",
   "lastOpenFiles": [
-    "Computer science/Algorithms and Data structures/Algorithms/Binary Search.md",
-    "Computer science/Algorithms and Data structures/Big O notation/Big O notation.md",
-    "Computer science/Algorithms and Data structures/Data structures",
-    "Computer science/Algorithms and Data structures/Big O notation/O(log n).md",
     "Computer science/Algorithms and Data structures/Algorithms and Data structures.md",
+    "Computer science/Algorithms and Data structures/Algorithms/Задача комівояжера.md",
+    "Computer science/Algorithms and Data structures/Big O notation/O(n!).md",
+    "stuff/assets/Pasted image 20250320162040.png",
+    "stuff/assets/Pasted image 20250320161855.png",
+    "stuff/assets/Pasted image 20250320161703.png",
+    "Computer science/Algorithms and Data structures/_Review kanban.md",
+    "Computer science/Algorithms and Data structures/Data structures/Linked list.md",
+    "Computer science/Algorithms and Data structures/Data structures/Array.md",
+    "Computer science/Algorithms and Data structures/Algorithms/Simple Search.md",
     "Computer science/Algorithms and Data structures/Algorithms/Реалізація Binary search.md",
     "Computer science/Algorithms and Data structures/Algorithms/Binary search для останього входження в масив.md",
     "Computer science/Algorithms and Data structures/Algorithms/Binary search для першого входження в масив.md",
-    "stuff/assets/Obsidian/Callouts.png",
-    "Computer science/Algorithms and Data structures/_Review kanban.md",
-    "Computer science/Algorithms and Data structures/Algorithms/Simple Search.md",
-    "stuff/templates/Base template.md",
+    "Computer science/Algorithms and Data structures/Algorithms/Binary Search.md",
+    "Computer science/Algorithms and Data structures/Індекс.md",
+    "Computer science/Algorithms and Data structures/Random access.md",
     "stuff/Sources/Grokking Algorithms.md",
+    "Computer science/Algorithms and Data structures/Big O notation/Big O notation.md",
+    "stuff/assets/Computer Science/Algorithms and data structures/Arrays and Linked list Big O.png",
+    "stuff/assets/Obsidian/Callouts.png",
+    "stuff/assets/Computer Science/Algorithms and data structures/Linked list in memory with links.png",
+    "stuff/assets/Computer Science/Algorithms and data structures/Linked list in memory without links example.png",
+    "stuff/assets/Computer Science/Algorithms and data structures/Array how saved.png",
+    "stuff/assets/Computer Science/Algorithms and data structures/Array.png",
+    "stuff/assets/Computer Science/Algorithms and data structures/Pasted image 20250303161919.png",
+    "Computer science/Algorithms and Data structures/Data structures/Array.md~",
+    "Computer science/Algorithms and Data structures/Sequential access.md",
+    "Computer science/Algorithms and Data structures/Sequential access.md~",
+    "Computer science/Algorithms and Data structures/Algorithms and Data structures.md~",
+    "stuff/Sources/Grokking Algorithms.md~",
+    "Computer science/Algorithms and Data structures/Random access.md~",
+    "Computer science/Algorithms and Data structures/1742473016-LCMU.md",
+    "Computer science/Algorithms and Data structures/1742472815-CKXS.md",
+    "Computer science/Algorithms and Data structures/Algorithms/Binary search для останього входження в масив.md~",
+    "Computer science/Algorithms and Data structures/Big O notation/O(1).md~",
+    "Computer science/Algorithms and Data structures/_Review kanban.md~",
+    "Computer science/Algorithms and Data structures/Data structures",
+    "Computer science/Algorithms and Data structures/Big O notation/O(log n).md",
+    "stuff/templates/Base template.md",
     "Computer science/Algorithms and Data structures/Алгоритм.md",
     "Computer science/Algorithms and Data structures/Big O notation/O(1).md",
-    "Computer science/Algorithms and Data structures/Big O notation/O(n!).md",
     "Computer science/Algorithms and Data structures/Big O notation/O(n^2).md",
     "Computer science/Algorithms and Data structures/Big O notation/O(n).md",
     "Computer science/Algorithms and Data structures/Big O notation/O(n log n).md",
     "Computer science/Algorithms and Data structures/Big O notation/Big O notation.md~",
-    "Computer science/Algorithms and Data structures/Big O notation/O(log n).md~",
-    "Computer science/Algorithms and Data structures/Big O notation/O(1).md~",
-    "Computer science/Algorithms and Data structures/Big O notation/O(n).md~",
-    "Computer science/Algorithms and Data structures/Big O notation/O(n^2).md~",
-    "Computer science/Algorithms and Data structures/Big O notation/O(n!).md~",
-    "Computer science/Algorithms and Data structures/Search/Simple Search.md~",
-    "Computer science/Algorithms and Data structures/Search/Binary Search/Binary Search.md~",
-    "stuff/Sources/Grokking Algorithms.md~",
-    "stuff/Plugins I use.md",
-    "Computer science/Algorithms and Data structures/Untitled.canvas",
-    "Computer science/Languages and technologies/JavaScript/JavaScript.md",
-    "stuff/assets/Computer Science/Algorithms and data structures/Compare base Big O.png",
-    "stuff/assets/Computer Science/Algorithms and data structures/Pasted image 20250224130833.png",
-    "stuff/assets/Pasted image 20250224130833.png",
-    "Computer science/Algorithms and data structures/Big O notation/Час роботи алгоритмів зростає з різною швидкістю при збільшені кількості елементів.md",
-    "stuff/assets/Callouts.png",
-    "stuff/assets/7e01227e6203044edce77bf50c2ded4fe0f0d194.png",
-    "Math/Логарифм.md",
-    "stuff/Tags.md",
-    "Computer science/Languages and technologies/TypeScript/TypeScript.md",
-    "README.md",
-    "Computer science/Languages and technologies/React/React.md"
+    "Computer science/Algorithms and Data structures/Untitled.canvas"
   ]
 }

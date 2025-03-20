@@ -3,20 +3,21 @@
 kanban-plugin: board
 
 ---
-#kanban
+
 ## Planned
 
-- [ ] Array
-- [ ] Liked list
 
 
 ## Todo
 
-- [ ] Binary search
 
 
 ## Review under 1w
 
+- [ ] Задача комівояжера
+- [ ] Liked list
+- [ ] Array
+- [ ] Binary search
 - [ ] Big O notation
 
 
