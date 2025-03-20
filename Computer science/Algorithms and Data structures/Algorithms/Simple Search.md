@@ -14,20 +14,4 @@
 
 В деяких ситуаціях ми фізично не можемо обійтись без проходження по всім елементам
 
-#algorithms-and-data-structures/algorithm 
-
-**Source:**
-#book/grokking-algorithms 
-
-**North, comes from:**
-[[Алгоритм]]
-
-**West, similar:**
-
-
-**East, opposite:**
-
-
-**South, leads to:**
-
-
+Цей алгоритм, хоч і так зрозумілий, але був описаний в книзі [[Grokking Algorithms]] 

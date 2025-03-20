@@ -4,16 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "e8f52c6423e4381b",
+        "id": "4c286fdcba2c0501",
         "type": "tabs",
         "children": [
           {
-            "id": "439b1d57865554e5",
+            "id": "8d6350ca28a5d778",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Algorithms and Data structures/Search/Binary Search/Binary Search.md",
+                "file": "Computer science/Algorithms and Data structures/Algorithms/Реалізація Binary search.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Реалізація Binary search"
+            }
+          },
+          {
+            "id": "20a67790f9689ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Algorithms and Data structures/Algorithms/Binary search для першого входження в масив.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary search для першого входження в масив"
+            }
+          },
+          {
+            "id": "1f2755273046c652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Algorithms and Data structures/Algorithms/Binary Search.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,55 +50,7 @@
             }
           },
           {
-            "id": "795e7d5cd286dd6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer science/Algorithms and Data structures/Search/Binary Search/Binary Search.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Binary Search"
-            }
-          },
-          {
-            "id": "d879b85b8a8e1ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer science/Algorithms and Data structures/Big O notation/Big O notation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Big O notation"
-            }
-          },
-          {
-            "id": "4a59c615ebca449a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d5fc3ab4df3b2c7b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "faabd22460acb45b",
+            "id": "c49b3d29022be1dc",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -81,7 +61,8 @@
               "title": "Callouts"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,12 +76,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6437b6df18a9e9bd",
+            "id": "b3a0d226c68f967b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -232,48 +213,49 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "439b1d57865554e5",
+  "active": "c49b3d29022be1dc",
   "lastOpenFiles": [
-    "Computer science/Algorithms and Data structures/Search/Binary Search/Binary Search.md",
+    "Computer science/Algorithms and Data structures/Algorithms/Binary Search.md",
     "Computer science/Algorithms and Data structures/Big O notation/Big O notation.md",
+    "Computer science/Algorithms and Data structures/Data structures",
+    "Computer science/Algorithms and Data structures/Big O notation/O(log n).md",
+    "Computer science/Algorithms and Data structures/Algorithms and Data structures.md",
+    "Computer science/Algorithms and Data structures/Algorithms/Реалізація Binary search.md",
+    "Computer science/Algorithms and Data structures/Algorithms/Binary search для останього входження в масив.md",
+    "Computer science/Algorithms and Data structures/Algorithms/Binary search для першого входження в масив.md",
     "stuff/assets/Obsidian/Callouts.png",
+    "Computer science/Algorithms and Data structures/_Review kanban.md",
+    "Computer science/Algorithms and Data structures/Algorithms/Simple Search.md",
+    "stuff/templates/Base template.md",
+    "stuff/Sources/Grokking Algorithms.md",
     "Computer science/Algorithms and Data structures/Алгоритм.md",
-    "stuff/Plugins I use.md",
-    "Computer science/Algorithms and Data structures/_/Review kanban.md",
-    "Computer science/Algorithms and Data structures/Search/Binary Search",
-    "Computer science/Algorithms and Data structures/Search/Simple Search.md",
-    "Computer science/Algorithms and Data structures/_",
-    "Computer science/Algorithms and Data structures/Untitled.canvas",
+    "Computer science/Algorithms and Data structures/Big O notation/O(1).md",
+    "Computer science/Algorithms and Data structures/Big O notation/O(n!).md",
     "Computer science/Algorithms and Data structures/Big O notation/O(n^2).md",
     "Computer science/Algorithms and Data structures/Big O notation/O(n).md",
-    "Computer science/Algorithms and Data structures/Big O notation/O(n!).md",
     "Computer science/Algorithms and Data structures/Big O notation/O(n log n).md",
-    "Computer science/Algorithms and Data structures/Big O notation/O(log n).md",
-    "Computer science/Algorithms and Data structures/Big O notation/O(1).md",
+    "Computer science/Algorithms and Data structures/Big O notation/Big O notation.md~",
+    "Computer science/Algorithms and Data structures/Big O notation/O(log n).md~",
+    "Computer science/Algorithms and Data structures/Big O notation/O(1).md~",
+    "Computer science/Algorithms and Data structures/Big O notation/O(n).md~",
+    "Computer science/Algorithms and Data structures/Big O notation/O(n^2).md~",
+    "Computer science/Algorithms and Data structures/Big O notation/O(n!).md~",
+    "Computer science/Algorithms and Data structures/Search/Simple Search.md~",
+    "Computer science/Algorithms and Data structures/Search/Binary Search/Binary Search.md~",
+    "stuff/Sources/Grokking Algorithms.md~",
+    "stuff/Plugins I use.md",
+    "Computer science/Algorithms and Data structures/Untitled.canvas",
     "Computer science/Languages and technologies/JavaScript/JavaScript.md",
-    "Computer science/Algorithms and data structures/Search/Simple search",
-    "Computer science/Algorithms and Data structures/Search",
     "stuff/assets/Computer Science/Algorithms and data structures/Compare base Big O.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Pasted image 20250224130833.png",
-    "stuff/assets/Computer Science/Algorithms and data structures",
-    "stuff/assets/Computer Science",
     "stuff/assets/Pasted image 20250224130833.png",
     "Computer science/Algorithms and data structures/Big O notation/Час роботи алгоритмів зростає з різною швидкістю при збільшені кількості елементів.md",
-    "stuff/assets/Obsidian",
     "stuff/assets/Callouts.png",
     "stuff/assets/7e01227e6203044edce77bf50c2ded4fe0f0d194.png",
     "Math/Логарифм.md",
     "stuff/Tags.md",
-    "Computer science/Algorithms and Data structures/Big O notation",
     "Computer science/Languages and technologies/TypeScript/TypeScript.md",
     "README.md",
-    "stuff/Sources",
-    "Computer science/Languages and technologies/TypeScript/TypeScript.md~",
-    "Computer science/Languages and technologies/React/React.md",
-    "stuff/templates/Base template.md",
-    "2025-03-17.md",
-    "test.md",
-    "Computer science/README.md",
-    "Welcome.md"
+    "Computer science/Languages and technologies/React/React.md"
   ]
 }

@@ -8,20 +8,3 @@
 
 Прикладом такого алгоритму є [[Simple Search]]
 
-#algorithms-and-data-structures 
-
-**Source:**
-#book/grokking-algorithms 
-
-**North, comes from:**
-[[Big O notation]]
-
-**West, similar:**
-
-
-**East, opposite:**
-
-
-**South, leads to:**
-
-

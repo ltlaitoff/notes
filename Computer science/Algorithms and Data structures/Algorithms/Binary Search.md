@@ -49,21 +49,4 @@ Binary search обирає деякий елемент в середині ма�
 
 Варіанти реалізації описані в [[Реалізація Binary search]]
 
-#algorithms-and-data-structures/algorithm 
-
-**Source:**
-#book/grokking-algorithms 
-
-**North, comes from:**
-[[Алгоритм]]
-[[Array]]
-
-**West, similar:**
-
-
-**East, opposite:**
-
-
-**South, leads to:**
-
-
+Алгоритм був описаний в книзі [[Grokking Algorithms]]

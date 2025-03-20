@@ -10,21 +10,3 @@
 > Для розуміння, якщо машина, на якій запускається алгоритм, може виконувати $100.000.000$ операцій в секунду, нам треба буде $5073$ РОКИ, щоб виконати цей алгоритм
 
 Прикладом такого алгоритму є [[Bubble Sort]]
-
-#algorithms-and-data-structures 
-
-**Source:**
-#book/grokking-algorithms  
-
-**North, comes from:**
-[[Big O notation]]
-
-**West, similar:**
-
-
-**East, opposite:**
-
-
-**South, leads to:**
-
-
