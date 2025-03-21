@@ -3,7 +3,8 @@
   "attachmentFolderPath": "stuff/assets",
   "alwaysUpdateLinks": true,
   "spellcheckDictionary": [
-    "останього"
+    "останього",
+    "фукнція"
   ],
   "vimMode": false
 }
