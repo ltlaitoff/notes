@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stuff/inbox/JWT vs Session.md",
+                "file": "Knowledge/Правило 40%.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JWT vs Session"
+              "title": "Правило 40%"
             }
           }
         ],
@@ -238,8 +238,10 @@
   },
   "active": "865cefca77787b85",
   "lastOpenFiles": [
-    "Computer science/Base/Function/Функція.md",
     "stuff/inbox/JWT vs Session.md",
+    "Knowledge/Правило 40%.md",
+    "Knowledge",
+    "Computer science/Base/Function/Функція.md",
     "README.md",
     "Math/Логарифм.md",
     "Daily notes/21-03-2025.md",
@@ -270,7 +272,6 @@
     "Computer science/Algorithms and Data structures/Big O notation/O(n^2).md",
     "Computer science/Algorithms and Data structures/Алгоритм.md",
     "stuff/templates/Daily.md",
-    "Daily notes/2025-03-201.md",
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman permutations table.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman map paths.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman map.png",
@@ -283,7 +284,6 @@
     "Computer science/Algorithms and Data structures/Sequential access.md~",
     "Computer science/Algorithms and Data structures/Algorithms and Data structures.md~",
     "stuff/Sources/Grokking Algorithms.md~",
-    "Computer science/Algorithms and Data structures/Random access.md~",
     "Computer science/Algorithms and Data structures/Untitled.canvas"
   ]
 }
