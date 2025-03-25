@@ -4,91 +4,89 @@
     "type": "split",
     "children": [
       {
-        "id": "4c286fdcba2c0501",
+        "id": "196c9ec2afa4301d",
         "type": "tabs",
         "children": [
           {
-            "id": "c49b3d29022be1dc",
+            "id": "a8ae495632921865",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/23-03-2025.md",
+                "file": "Computer science/Languages and technologies/TypeScript/Union.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23-03-2025"
+              "title": "Union"
             }
           },
           {
-            "id": "2fd55e5eb38e4805",
+            "id": "814baf4e8cfe69ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/В будь-який момент рішення може змінити курс нашого життя назавджи.md",
+                "file": "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "В будь-який момент рішення може змінити курс нашого життя назавджи"
+              "title": "Доступ до типів за індексом"
             }
           },
           {
-            "id": "865cefca77787b85",
+            "id": "37eeae1828060708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Base/Closed source.md",
+                "file": "Computer science/Languages and technologies/TypeScript/TypeScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Closed source"
+              "title": "TypeScript"
             }
           },
           {
-            "id": "d23523726ed1dd9d",
+            "id": "6f768b93d5c478ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_inbox/Slow approach to productivity.md",
+                "file": "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slow approach to productivity"
+              "title": "Доступ до типів за індексом"
             }
           },
           {
-            "id": "accdcbd86177e981",
+            "id": "2e6536cafe40049f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Шлях яким ми йдемо до речей такий самий важливий, як ці речі.md",
+                "file": "Computer science/Languages and technologies/TypeScript/Union.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шлях яким ми йдемо до речей такий самий важливий, як ці речі"
+              "title": "Union"
             }
           },
           {
-            "id": "7e2725b63e3dc050",
+            "id": "f60c697e8c158a9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Knowledge/Don't do more today than you can completely recover from by tomorrow.md",
-                "mode": "source",
-                "source": false
+                "file": "stuff/assets/Obsidian/Callouts.png"
               },
-              "icon": "lucide-file",
-              "title": "Don't do more today than you can completely recover from by tomorrow"
+              "icon": "lucide-image",
+              "title": "Callouts"
             }
           }
         ],
@@ -165,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Knowledge/Шлях яким ми йдемо до речей такий самий важливий, як ці речі.md",
+                "file": "Computer science/Languages and technologies/TypeScript/Union.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Шлях яким ми йдемо до речей такий самий важливий, як ці речі"
+              "title": "Graph of Union"
             }
           },
           {
@@ -250,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science/Algorithms and data structures/Big O notation/Час роботи алгоритмів зростає з різною швидкістю при збільшені кількості елементів.md",
+                "file": "Computer science/Languages and technologies/TypeScript/Union.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Час роботи алгоритмів зростає з різною швидкістю при збільшені кількості елементів"
+              "title": "Outline of Union"
             }
           }
         ]
@@ -280,39 +278,38 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "accdcbd86177e981",
+  "active": "2e6536cafe40049f",
   "lastOpenFiles": [
+    "stuff/assets/Obsidian/Callouts.png",
+    "Computer science/Languages and technologies/TypeScript/Union.md",
+    "Daily notes/25-03-2025.md",
+    "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
+    "Computer science/Languages and technologies/TypeScript/TypeScript typeof.md",
+    "Computer science/Languages and technologies/TypeScript/TypeScript.md",
+    "Computer science/Languages and technologies/TypeScript/keyof.md",
+    "Union.md",
+    "Mapped types.md",
     "Knowledge/Don't do more today than you can completely recover from by tomorrow.md",
     "Knowledge/Шлях яким ми йдемо до речей такий самий важливий, як ці речі.md",
+    "Knowledge/Якщо ми вигоримо на початку, то ми ніколи не дійдемо до того, чого хочемо.md",
+    "Computer science/Base/Closed source.md",
+    "Knowledge/В будь-який момент рішення може змінити курс нашого життя назавджи.md",
+    "Daily notes/23-03-2025.md",
     "_inbox/Slow approach to productivity.md",
     "_inbox/Recursion.md",
-    "Daily notes/25-03-2025.md",
     "_inbox/JWT vs Session.md",
-    "Daily notes/23-03-2025.md",
-    "Knowledge/В будь-який момент рішення може змінити курс нашого життя назавджи.md",
     "Knowledge/Правило 40%.md",
     "Knowledge/Робити що завгодно не складно. Складно почати це робити.md",
     "Computer science/Algorithms and Data structures/Big O notation/O(n!).md",
     "Math/Базові знання.md",
     "Math/Факторіал.md",
-    "stuff/assets/Obsidian/Callouts.png",
     "Daily notes/21-03-2025.md",
-    "Computer science/Base/Closed source.md",
     "Computer science/Base/Open source.md",
     "Computer science/Base/Базові поняття.md",
-    "Computer science/Languages and technologies/TypeScript/TypeScript.md",
     "Knowledge",
-    "Computer science/Base/Function/Функція.md",
-    "README.md",
-    "Math/Логарифм.md",
-    "Computer science/Base/Function/Процедура.md",
     "stuff/assets/Computer Science/Base/open-source.png",
     "stuff/assets/Computer Science/Base",
     "stuff/assets/Computer Science/Base/closed-source.png",
-    "Computer science/Base/Function/Lambda функція.md",
-    "Computer science/Base/Function/Анонімна функція.md",
-    "Computer science/Base/Function/Підпрограма.md",
-    "Computer science/Base/Function/Чиста функція.md",
     "Computer science/Base/Function",
     "Computer science/Base",
     "_inbox",

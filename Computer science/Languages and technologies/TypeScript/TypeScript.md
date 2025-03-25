@@ -1,22 +1,9 @@
-`TypeScript` - це надбудова над мовою JavaScript, яка додає в неї статичну типізацію
+`TypeScript` - це надбудова над мовою [[JavaScript]], яка додає в неї [[Статична типізація|статичну типізацію]]
 
-Після того, як код на TypeScipt був написаний, за допомогою [[TypeScript Compiler]] переводиться у звичайний JavaScript 
+Після того, як код на `TypeScipt` був написаний, за допомогою [[TypeScript Compiler]] переводиться у звичайний JavaScript 
 
-#typescript #to-review
+Тобто у нас в браузері виконується звичайний JavaScript без типів, в типи відкидуються під час [[Транскомпіляція|транспіляції]]
 
-**Source:**
-
-
-**North, comes from:**
-[[JavaScript]]
-[[Статична типізація]]
-
-**West, similar:**
-
-
-**East, opposite:**
-
-
-**South, leads to:**
-[[TypeScript Compiler]]
-
+[[keyof]]
+[[TypeScript typeof]]
+[[Доступ до типів за індексом]]

@@ -22,10 +22,24 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"Computer science/Base\"  ",
       "color": {
         "a": 1,
         "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"Computer science/Languages and technologies/TypeScript\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:Math  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048448
       }
     }
   ],
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.31214753848498666,
+  "scale": 0.70233196159122,
   "close": false
 }
