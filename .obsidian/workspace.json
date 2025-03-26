@@ -278,7 +278,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2e6536cafe40049f",
+  "active": "b3a0d226c68f967b",
   "lastOpenFiles": [
     "stuff/assets/Obsidian/Callouts.png",
     "Computer science/Languages and technologies/TypeScript/Union.md",
@@ -296,8 +296,8 @@
     "Knowledge/В будь-який момент рішення може змінити курс нашого життя назавджи.md",
     "Daily notes/23-03-2025.md",
     "_inbox/Slow approach to productivity.md",
-    "_inbox/Recursion.md",
-    "_inbox/JWT vs Session.md",
+    "inbox/Recursion.md",
+    "inbox/JWT vs Session.md",
     "Knowledge/Правило 40%.md",
     "Knowledge/Робити що завгодно не складно. Складно почати це робити.md",
     "Computer science/Algorithms and Data structures/Big O notation/O(n!).md",
@@ -312,7 +312,7 @@
     "stuff/assets/Computer Science/Base/closed-source.png",
     "Computer science/Base/Function",
     "Computer science/Base",
-    "_inbox",
+    "inbox",
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman permutations table.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman map paths.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman map.png",
