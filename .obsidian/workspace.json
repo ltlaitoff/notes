@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Languages and technologies/TypeScript/Union.md",
+                "file": "inbox/Deep Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Union"
+              "title": "Deep Work"
             }
           },
           {
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer science/Languages and technologies/TypeScript/Union.md",
+                "file": "inbox/Deep Work.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Union"
+              "title": "Graph of Deep Work"
             }
           },
           {
@@ -248,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science/Languages and technologies/TypeScript/Union.md",
+                "file": "inbox/Deep Work.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Union"
+              "title": "Outline of Deep Work"
             }
           }
         ]
@@ -278,10 +278,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b3a0d226c68f967b",
+  "active": "2e6536cafe40049f",
   "lastOpenFiles": [
-    "stuff/assets/Obsidian/Callouts.png",
     "Computer science/Languages and technologies/TypeScript/Union.md",
+    "inbox/Deep Work.md",
+    "inbox/Untitled",
+    "stuff/assets/Obsidian/Callouts.png",
     "Daily notes/25-03-2025.md",
     "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
     "Computer science/Languages and technologies/TypeScript/TypeScript typeof.md",
@@ -324,7 +326,6 @@
     "Computer science/Algorithms and Data structures/Data structures/Array.md~",
     "Computer science/Algorithms and Data structures/Sequential access.md~",
     "Computer science/Algorithms and Data structures/Algorithms and Data structures.md~",
-    "stuff/Sources/Grokking Algorithms.md~",
     "Computer science/Algorithms and Data structures/Untitled.canvas"
   ]
 }
