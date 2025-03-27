@@ -24,7 +24,8 @@
     "Computer science/Algorithms and Data structures/Random access.md",
     "Computer science/Algorithms and Data structures/Sequential access.md",
     "Computer science/Algorithms and Data structures/Алгоритм.md",
-    "Computer science/Algorithms and Data structures/Індекс.md"
+    "Computer science/Algorithms and Data structures/Індекс.md",
+    "Computer science/Algorithms and Data structures/Recursion.md"
   ],
   "Computer science/Algorithms and Data structures/Algorithms": [
     "Computer science/Algorithms and Data structures/Algorithms/Binary Search.md",
@@ -45,6 +46,8 @@
     "Computer science/Algorithms and Data structures/Big O notation/O(n^2).md"
   ],
   "Computer science/Algorithms and Data structures/Data structures": [
+    "Computer science/Algorithms and Data structures/Data structures/Queue.md",
+    "Computer science/Algorithms and Data structures/Data structures/Stack.md",
     "Computer science/Algorithms and Data structures/Data structures/Array.md",
     "Computer science/Algorithms and Data structures/Data structures/Linked list.md"
   ],
@@ -85,12 +88,12 @@
     "Daily notes/20-03-2025.md",
     "Daily notes/21-03-2025.md",
     "Daily notes/23-03-2025.md",
-    "Daily notes/25-03-2025.md"
+    "Daily notes/25-03-2025.md",
+    "Daily notes/26-03-2025.md"
   ],
   "inbox": [
     "inbox/Deep Work.md",
-    "inbox/JWT vs Session.md",
-    "inbox/Recursion.md"
+    "inbox/JWT vs Session.md"
   ],
   "Knowledge": [
     "Knowledge/Don't do more today than you can completely recover from by tomorrow.md",

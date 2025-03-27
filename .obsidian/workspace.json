@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
+                "file": "Daily notes/26-03-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Доступ до типів за індексом"
+              "title": "26-03-2025"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Languages and technologies/TypeScript/TypeScript.md",
+                "file": "stuff/Sources/Grokking Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TypeScript"
+              "title": "Grokking Algorithms"
             }
           },
           {
@@ -55,12 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
+                "file": "Computer science/Algorithms and Data structures/Algorithms and Data structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Доступ до типів за індексом"
+              "title": "Algorithms and Data structures"
+            }
+          },
+          {
+            "id": "3b44e7b41542fe39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Algorithms and Data structures/Data structures/Queue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Queue"
             }
           },
           {
@@ -69,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Deep Work.md",
+                "file": "Daily notes/26-03-2025.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Deep Work"
+              "title": "26-03-2025"
             }
           },
           {
@@ -90,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Фактор",
+                "query": "Recursion]]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "inbox/Deep Work.md",
+                "file": "stuff/Sources/Grokking Algorithms.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Deep Work"
+              "title": "Graph of Grokking Algorithms"
             }
           },
           {
@@ -248,13 +262,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/Deep Work.md",
+                "file": "stuff/Sources/Grokking Algorithms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Deep Work"
+              "title": "Outline of Grokking Algorithms"
             }
           }
         ]
@@ -278,16 +292,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2e6536cafe40049f",
+  "active": "37eeae1828060708",
   "lastOpenFiles": [
-    "Computer science/Languages and technologies/TypeScript/Union.md",
+    "Daily notes/26-03-2025.md",
+    "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
+    "Computer science/Algorithms and Data structures/Data structures/Queue.md",
+    "Computer science/Algorithms and Data structures/Data structures/Stack.md",
+    "Computer science/Algorithms and Data structures/Recursion.md",
+    "stuff/Sources/Grokking Algorithms.md",
+    "Computer science/Algorithms and Data structures/Algorithms and Data structures.md",
+    "Computer science/Languages and technologies/TypeScript/TypeScript.md",
+    "inbox/Recursion.md",
+    "Daily notes/25-03-2025.md",
     "inbox/Deep Work.md",
+    "inbox/Untitled.md",
+    "Computer science/Languages and technologies/TypeScript/Union.md",
     "inbox/Untitled",
     "stuff/assets/Obsidian/Callouts.png",
-    "Daily notes/25-03-2025.md",
-    "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
     "Computer science/Languages and technologies/TypeScript/TypeScript typeof.md",
-    "Computer science/Languages and technologies/TypeScript/TypeScript.md",
     "Computer science/Languages and technologies/TypeScript/keyof.md",
     "Union.md",
     "Mapped types.md",
@@ -298,16 +320,8 @@
     "Knowledge/В будь-який момент рішення може змінити курс нашого життя назавджи.md",
     "Daily notes/23-03-2025.md",
     "_inbox/Slow approach to productivity.md",
-    "inbox/Recursion.md",
     "inbox/JWT vs Session.md",
     "Knowledge/Правило 40%.md",
-    "Knowledge/Робити що завгодно не складно. Складно почати це робити.md",
-    "Computer science/Algorithms and Data structures/Big O notation/O(n!).md",
-    "Math/Базові знання.md",
-    "Math/Факторіал.md",
-    "Daily notes/21-03-2025.md",
-    "Computer science/Base/Open source.md",
-    "Computer science/Base/Базові поняття.md",
     "Knowledge",
     "stuff/assets/Computer Science/Base/open-source.png",
     "stuff/assets/Computer Science/Base",

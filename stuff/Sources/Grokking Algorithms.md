@@ -1,6 +1,7 @@
 **Grokking Algorithms** - це книга про алгоритми
 
 [[Алгоритм]]
+[[Recursion]]
 
 [[Big O notation]]
 
@@ -13,3 +14,6 @@
 
 [[Array]]
 [[Linked list]]
+[[Stack]]
+
+
