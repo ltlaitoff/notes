@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stuff/Sources/Grokking Algorithms.md",
+                "file": "inbox/Deep Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grokking Algorithms"
+              "title": "Deep Work"
             }
           },
           {
@@ -295,12 +295,12 @@
   },
   "active": "37eeae1828060708",
   "lastOpenFiles": [
+    "stuff/Sources/Grokking Algorithms.md",
     "Daily notes/26-03-2025.md",
     "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
     "Computer science/Algorithms and Data structures/Data structures/Queue.md",
     "Computer science/Algorithms and Data structures/Data structures/Stack.md",
     "Computer science/Algorithms and Data structures/Recursion.md",
-    "stuff/Sources/Grokking Algorithms.md",
     "Computer science/Algorithms and Data structures/Algorithms and Data structures.md",
     "Computer science/Languages and technologies/TypeScript/TypeScript.md",
     "inbox/Recursion.md",

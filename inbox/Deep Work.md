@@ -42,6 +42,129 @@ Shallow work - це логічні завдання, яка не потребу�
 
 --тут історія розбробника з моралю, що deep work актуальна і на зараз--
 
+To remain valuable in our economy, therefore, you must master the art of
+quickly learning complicated things. This task requires deep work. If you don’t
+cultivate this ability, you’re likely to fall behind as technology advances
+
+f you can create something useful, its reachable
+audience (e.g., employers or customers) is essentially limitless—which greatly
+magnifies your reward. On the other hand, if what you’re producing is mediocre, then
+you’re in trouble, as it’s too easy for your audience to find a better alternative online.
+
+Deep work це валюта?
+
+Справжні нагороди чекають не тих, хто комфорно використовує facebook, а тих, хто може зробити щось складне
+
+he Deep Work Hypothesis: The ability to perform deep work is becoming increasingly rare at exactly
+the same time it is becoming increasingly valuable in our economy. As a consequence, the few who
+cultivate this skill, and then make it the core of their working life, will thrive
+
+
+ Three to four hours a day, five days a week, of
+uninterrupted and carefully directed concentration, it turns out, can produce a lot of
+valuable output
+
+
+More generally, the lack of distraction in my life tones down that
+background hum of nervous mental energy that seems to increasingly pervade people’s
+daily lives. I’m comfortable being bored, and this can be a surprisingly rewarding
+skill—especially on a lazy D.C. summer night listening to a Nationals game slowly
+unfold on the radio
+
+
+A
+deep life is a good life
+
+“We are in the early throes of a Great Restructuring,” Brynjolfsson
+and McAfee explain early in their book. “Our technologies are racing ahead but many
+of our skills and organizations are lagging behind
+
+But
+what makes Brynjolfsson and McAfee’s analysis particularly useful is that they
+proceed to identify three specific groups that will fall on the lucrative side of this
+divide and reap a disproportionate amount of the benefits of the Intelligent Machine
+Age.
+
+The High-Skilled Workers
+
+those with the oracular ability to work with and tease valuable results out of increasingly complex machines will thriv
+
+Tyler Cowen
+summarizes this reality more bluntly: “The key question will be: are you good at
+working with intelligent machines or not?”
+
+The Superstars
+
+It
+no longer makes sense, for example, to hire a full-time programmer, put aside office
+space, and pay benefits, when you can instead pay one of the world’s best
+programmers, like Hansson, for just enough time to complete the project at hand. In
+this scenario, you’ll probably get a better result for less money, while Hansson can
+service many more clients per year, and will therefore also end up better off.
+
+ those at the peak of the market thrive while the rest suffer.
+ “winner-take-all” market
+
+“Hearing a
+succession of mediocre singers does not add up to a single outstanding performance.
+
+In other words, talent is not a commodity you can buy in bulk and combine to reach the
+needed levels: There’s a premium to being the bes
+
+. Therefore, if you’re in a
+marketplace where the consumer has access to all performers, and everyone’s q value
+is clear, the consumer will choose the very best. Even if the talent advantage of the
+best is small compared to the next rung down on the skill ladder, the superstars still
+win the bulk of the market
+
+The Owners
+
+Let’s pull together the threads spun so far: Current economic thinking, as I’ve
+surveyed, argues that the unprecedented growth and impact of technology are creating
+a massive restructuring of our economy. In this new economy, three groups will have a
+particular advantage: those who can work well and creatively with intelligent
+machines, those who are the best at what they do, and those with access to capital
+
+It's not only econom and only 3 groups
+
+this book’s argument is that these trends, even if not alone, are
+important, and these groups, even if they are not the only such groups, will thrive
+
+
+Two Core Abilities for Thriving in the New Economy
+1. The ability to quickly master hard things.
+2. The ability to produce at an elite level, in terms of both quality and speed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
