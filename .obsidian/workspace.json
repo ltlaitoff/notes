@@ -248,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer science/Algorithms and data structures/Big O notation/Час роботи алгоритмів зростає з різною швидкістю при збільшені кількості елементів.md",
+                "file": "stuff/Sources/Grokking Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Час роботи алгоритмів зростає з різною швидкістю при збільшені кількості елементів"
+              "title": "Outgoing links from Grokking Algorithms"
             }
           },
           {
@@ -271,7 +271,8 @@
               "title": "Outline of Grokking Algorithms"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
