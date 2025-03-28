@@ -77,6 +77,7 @@
     "Computer science/Languages and technologies/React/React.md"
   ],
   "Computer science/Languages and technologies/TypeScript": [
+    "Computer science/Languages and technologies/TypeScript/Умовні типи.md",
     "Computer science/Languages and technologies/TypeScript/keyof.md",
     "Computer science/Languages and technologies/TypeScript/TypeScript.md",
     "Computer science/Languages and technologies/TypeScript/TypeScript typeof.md",
@@ -85,6 +86,7 @@
   ],
   "Computer science/Operational systems": [],
   "Daily notes": [
+    "Daily notes/27-03-2025.md",
     "Daily notes/20-03-2025.md",
     "Daily notes/21-03-2025.md",
     "Daily notes/23-03-2025.md",

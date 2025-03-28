@@ -137,6 +137,48 @@ Two Core Abilities for Thriving in the New Economy
 
 
 
+ If you can’t
+learn, you can’t thrive
+
+If you don’t produce, you won’t thrive—no matter how
+skilled or talented you are
+
+The two core abilities just described depend on your ability to perform
+deep work
+
+Sertillanges argues
+that to advance your understanding of your field you must tackle the relevant topics
+systematically, allowing your “converging rays of attention” to uncover the truth latent
+in each. In other words, he teaches: To learn requires intense concentration 
+
+ deliberate practice
+Ericsson opens his seminal paper on the topic with a powerful claim: “We deny
+that these differences [between expert performers and normal adults] are immutable…
+Instead, we argue that the differences between expert performers and normal adults
+reflect a life-long period of deliberate effort to improve performance in a specific
+domain.”
+
+By focusing intensely on a specific skill, you’re
+forcing the specific relevant circuit to fire, again and again, in isolation. This
+repetitive use of a specific circuit triggers cells called oligodendrocytes to begin
+wrapping layers of myelin around the neurons in the circuits—effectively cementing
+the skill. 
+
+he reason, therefore, why it’s important to focus intensely on the task at
+hand while avoiding distraction is because this is the only way to isolate the relevant
+neural circuit enough to trigger useful myelination.
+
+To learn hard things quickly, you must focus intensely without
+distraction
+
+Though Grant’s productivity depends on many factors, there’s one idea in
+particular that seems central to his method: the batching of hard but important
+intellectual work into long, uninterrupted stretches
+
+High-Quality Work Produced = (Time Spent) x (Intensity of Focus)
+
+attention residue
+
 
 
 

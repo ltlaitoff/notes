@@ -48,3 +48,43 @@ foo('str') // error
 > }
 > ```
 
+За замовчуванням TypeScript надає нам можливість виконувати операції, які дозволені для всіх елементів Union
+
+Наприклад, якщо у нас є Union `string | number`, то ми не можемо на нього викликати метод `.toUpperCase`, оскільки він є тільки у рядків
+
+```ts
+function someFunction(arg: string | number) {
+	return arg.toUpperCase()
+	// ^ Error
+}
+```
+
+Щоб викликати метод нам треба точно знати, що аргумент це рядок
+
+Для цього ми можемо написати перевірку, таку саму, як і в звичайному JavaScript, яка буде перевіряти тип, і якщо він рядок, то виконувати потрібну операцію. В TypeScript це називається [[Narrowing]]
+
+```ts
+function someFunction(arg: string | number) {
+	if (typeof arg === 'string') {
+		// arg: string
+		return arg.toUpperCase()
+	}
+	
+	// arg: number
+	return arg
+}
+```
+
+Також для цього ми можемо використовувати інші перевірки, такі як `Array.isArray`, або ж навіть написати свої власні через [[User-defined type guard]]
+
+> [!faq]
+> It might be confusing that a _union_ of types appears to have the _intersection_ of those types’ properties
+> 
+> This is not an accident - the name _union_ comes from [[Type theory]]
+> 
+> The _union_ `number | string` is composed by taking the union _of the values_ from each type
+> 
+> Notice that given two sets with corresponding facts about each set, only the _intersection_ of those facts applies to the _union_ of the sets themselves
+> 
+> For example, if we had a room of tall people wearing hats, and another room of Spanish speakers wearing hats, after combining those rooms, the only thing we know about _every_ person is that they must be wearing a hat
+

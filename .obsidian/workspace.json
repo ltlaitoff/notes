@@ -36,31 +36,17 @@
             }
           },
           {
-            "id": "37eeae1828060708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Deep Work.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deep Work"
-            }
-          },
-          {
             "id": "6f768b93d5c478ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Algorithms and Data structures/Algorithms and Data structures.md",
+                "file": "Computer science/Languages and technologies/TypeScript/Умовні типи.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Algorithms and Data structures"
+              "title": "Умовні типи"
             }
           },
           {
@@ -83,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/26-03-2025.md",
+                "file": "inbox/Deep Work.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "26-03-2025"
+              "title": "Deep Work"
             }
           },
           {
@@ -104,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Recursion]]",
+                "query": "Matt ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -293,25 +279,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "37eeae1828060708",
+  "active": "2e6536cafe40049f",
   "lastOpenFiles": [
-    "stuff/Sources/Grokking Algorithms.md",
     "Daily notes/26-03-2025.md",
-    "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
+    "Computer science/Languages and technologies/TypeScript/Умовні типи.md",
+    "Daily notes/27-03-2025.md",
+    "Computer science/Languages and technologies/TypeScript/TypeScript.md",
     "Computer science/Algorithms and Data structures/Data structures/Queue.md",
+    "Computer science/Languages and technologies/TypeScript/Union.md",
+    "Computer science/Languages and technologies/TypeScript/keyof.md",
+    "Computer science/Algorithms and Data structures/Algorithms and Data structures.md",
+    "inbox/Deep Work.md",
+    "stuff/Sources/Grokking Algorithms.md",
+    "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
     "Computer science/Algorithms and Data structures/Data structures/Stack.md",
     "Computer science/Algorithms and Data structures/Recursion.md",
-    "Computer science/Algorithms and Data structures/Algorithms and Data structures.md",
-    "Computer science/Languages and technologies/TypeScript/TypeScript.md",
     "inbox/Recursion.md",
     "Daily notes/25-03-2025.md",
-    "inbox/Deep Work.md",
     "inbox/Untitled.md",
-    "Computer science/Languages and technologies/TypeScript/Union.md",
     "inbox/Untitled",
     "stuff/assets/Obsidian/Callouts.png",
     "Computer science/Languages and technologies/TypeScript/TypeScript typeof.md",
-    "Computer science/Languages and technologies/TypeScript/keyof.md",
     "Union.md",
     "Mapped types.md",
     "Knowledge/Don't do more today than you can completely recover from by tomorrow.md",
@@ -321,8 +309,6 @@
     "Knowledge/В будь-який момент рішення може змінити курс нашого життя назавджи.md",
     "Daily notes/23-03-2025.md",
     "_inbox/Slow approach to productivity.md",
-    "inbox/JWT vs Session.md",
-    "Knowledge/Правило 40%.md",
     "Knowledge",
     "stuff/assets/Computer Science/Base/open-source.png",
     "stuff/assets/Computer Science/Base",
