@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Languages and technologies/TypeScript/Union.md",
+                "file": "Computer science/Languages and technologies/TypeScript/TypeScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Union"
+              "title": "TypeScript"
             }
           },
           {
@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/26-03-2025.md",
+                "file": "Daily notes/29-03-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26-03-2025"
-            }
-          },
-          {
-            "id": "6f768b93d5c478ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer science/Languages and technologies/TypeScript/Умовні типи.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Умовні типи"
+              "title": "29-03-2025"
             }
           },
           {
@@ -55,26 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Algorithms and Data structures/Data structures/Queue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Queue"
-            }
-          },
-          {
-            "id": "2e6536cafe40049f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Deep Work.md",
+                "file": "Computer science/Languages and technologies/TypeScript/Boolean це аліас для Union true or false.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Deep Work"
+              "title": "Boolean це аліас для Union true or false"
+            }
+          },
+          {
+            "id": "6f768b93d5c478ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Literal"
             }
           },
           {
@@ -88,9 +74,23 @@
               "icon": "lucide-image",
               "title": "Callouts"
             }
+          },
+          {
+            "id": "8ec02e3a58a1369c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Languages and technologies/TypeScript/TypeScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TypeScript"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "stuff/Sources/Grokking Algorithms.md",
+                "file": "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Grokking Algorithms"
+              "title": "Graph of Literal"
             }
           },
           {
@@ -234,12 +234,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stuff/Sources/Grokking Algorithms.md",
+                "file": "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Grokking Algorithms"
+              "title": "Outgoing links from Literal"
             }
           },
           {
@@ -257,8 +257,7 @@
               "title": "Outline of Grokking Algorithms"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -279,36 +278,38 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2e6536cafe40049f",
+  "active": "6f768b93d5c478ac",
   "lastOpenFiles": [
-    "Daily notes/26-03-2025.md",
-    "Computer science/Languages and technologies/TypeScript/Умовні типи.md",
-    "Daily notes/27-03-2025.md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Const assertions (as const).md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
+    "Computer science/Languages and technologies/TypeScript/Boolean це аліас для Union true or false.md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Literal Types.md",
+    "Daily notes/29-03-2025.md",
     "Computer science/Languages and technologies/TypeScript/TypeScript.md",
-    "Computer science/Algorithms and Data structures/Data structures/Queue.md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Template Literal Types.md",
+    "stuff/assets/Obsidian/Callouts.png",
+    "Computer science/Languages and technologies/TypeScript/Зміна ключів через \"as\" в mapping types.md",
+    "Computer science/Languages and technologies/TypeScript/Mapped types.md",
+    "Computer science/Languages and technologies/TypeScript/inbox",
+    "Computer science/Languages and technologies/TypeScript/Розподільні умовні типи.md",
+    "Computer science/Languages and technologies/TypeScript/Mapping types модифікатори.md",
+    "Computer science/Languages and technologies/TypeScript/todo/Index Signatures.md",
+    "Computer science/Languages and technologies/TypeScript/todo",
+    "Computer science/Languages and technologies/TypeScript/Умовні типи.md",
+    "Computer science/Languages and technologies/TypeScript/Виведення типів через infer.md",
+    "Computer science/Languages and technologies/TypeScript/Обмеження через умовні типи.md",
+    "Untitled.md",
     "Computer science/Languages and technologies/TypeScript/Union.md",
+    "Daily notes/26-03-2025.md",
+    "Computer science/Algorithms and Data structures/Data structures/Queue.md",
+    "inbox/Deep Work.md",
+    "Daily notes/27-03-2025.md",
     "Computer science/Languages and technologies/TypeScript/keyof.md",
     "Computer science/Algorithms and Data structures/Algorithms and Data structures.md",
-    "inbox/Deep Work.md",
     "stuff/Sources/Grokking Algorithms.md",
     "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
     "Computer science/Algorithms and Data structures/Data structures/Stack.md",
-    "Computer science/Algorithms and Data structures/Recursion.md",
-    "inbox/Recursion.md",
-    "Daily notes/25-03-2025.md",
-    "inbox/Untitled.md",
     "inbox/Untitled",
-    "stuff/assets/Obsidian/Callouts.png",
-    "Computer science/Languages and technologies/TypeScript/TypeScript typeof.md",
-    "Union.md",
-    "Mapped types.md",
-    "Knowledge/Don't do more today than you can completely recover from by tomorrow.md",
-    "Knowledge/Шлях яким ми йдемо до речей такий самий важливий, як ці речі.md",
-    "Knowledge/Якщо ми вигоримо на початку, то ми ніколи не дійдемо до того, чого хочемо.md",
-    "Computer science/Base/Closed source.md",
-    "Knowledge/В будь-який момент рішення може змінити курс нашого життя назавджи.md",
-    "Daily notes/23-03-2025.md",
-    "_inbox/Slow approach to productivity.md",
     "Knowledge",
     "stuff/assets/Computer Science/Base/open-source.png",
     "stuff/assets/Computer Science/Base",
@@ -325,8 +326,6 @@
     "stuff/assets/Computer Science/Algorithms and data structures/Linked list in memory without links example.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Array how saved.png",
     "Computer science/Algorithms and Data structures/Data structures/Array.md~",
-    "Computer science/Algorithms and Data structures/Sequential access.md~",
-    "Computer science/Algorithms and Data structures/Algorithms and Data structures.md~",
     "Computer science/Algorithms and Data structures/Untitled.canvas"
   ]
 }

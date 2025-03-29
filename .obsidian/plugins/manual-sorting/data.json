@@ -77,6 +77,14 @@
     "Computer science/Languages and technologies/React/React.md"
   ],
   "Computer science/Languages and technologies/TypeScript": [
+    "Computer science/Languages and technologies/TypeScript/inbox",
+    "Computer science/Languages and technologies/TypeScript/Boolean це аліас для Union true or false.md",
+    "Computer science/Languages and technologies/TypeScript/Зміна ключів через \"as\" в mapping types.md",
+    "Computer science/Languages and technologies/TypeScript/Mapping types модифікатори.md",
+    "Computer science/Languages and technologies/TypeScript/Mapped types.md",
+    "Computer science/Languages and technologies/TypeScript/Розподільні умовні типи.md",
+    "Computer science/Languages and technologies/TypeScript/Виведення типів через infer.md",
+    "Computer science/Languages and technologies/TypeScript/Обмеження через умовні типи.md",
     "Computer science/Languages and technologies/TypeScript/Умовні типи.md",
     "Computer science/Languages and technologies/TypeScript/keyof.md",
     "Computer science/Languages and technologies/TypeScript/TypeScript.md",
@@ -84,8 +92,15 @@
     "Computer science/Languages and technologies/TypeScript/Union.md",
     "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md"
   ],
+  "Computer science/Languages and technologies/TypeScript/inbox": [
+    "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Const assertions (as const).md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Template Literal Types.md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Literal Types.md"
+  ],
   "Computer science/Operational systems": [],
   "Daily notes": [
+    "Daily notes/29-03-2025.md",
     "Daily notes/27-03-2025.md",
     "Daily notes/20-03-2025.md",
     "Daily notes/21-03-2025.md",

@@ -8,4 +8,17 @@
 [[TypeScript typeof]]
 [[Доступ до типів за індексом]]
 [[Union]]
+
 [[Умовні типи]]
+[[Обмеження через умовні типи]]
+[[Виведення типів через infer]]
+[[Розподільні умовні типи]]
+
+[[Mapped types]]
+[[Mapping types модифікатори]]
+[[Зміна ключів через "as" в mapping types]]
+
+[[Literal Types]]
+[[Boolean це аліас для Union true or false]]
+
+
