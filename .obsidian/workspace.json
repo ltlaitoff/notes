@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Languages and technologies/TypeScript/Boolean це аліас для Union true or false.md",
+                "file": "Computer science/Languages and technologies/TypeScript/Mapped types.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Boolean це аліас для Union true or false"
+              "title": "Mapped types"
             }
           },
           {
@@ -280,16 +280,16 @@
   },
   "active": "6f768b93d5c478ac",
   "lastOpenFiles": [
-    "Computer science/Languages and technologies/TypeScript/inbox/Const assertions (as const).md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
+    "Computer science/Languages and technologies/TypeScript/Mapped types.md",
     "Computer science/Languages and technologies/TypeScript/Boolean це аліас для Union true or false.md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Const assertions (as const).md",
     "Computer science/Languages and technologies/TypeScript/inbox/Literal Types.md",
     "Daily notes/29-03-2025.md",
     "Computer science/Languages and technologies/TypeScript/TypeScript.md",
     "Computer science/Languages and technologies/TypeScript/inbox/Template Literal Types.md",
     "stuff/assets/Obsidian/Callouts.png",
     "Computer science/Languages and technologies/TypeScript/Зміна ключів через \"as\" в mapping types.md",
-    "Computer science/Languages and technologies/TypeScript/Mapped types.md",
     "Computer science/Languages and technologies/TypeScript/inbox",
     "Computer science/Languages and technologies/TypeScript/Розподільні умовні типи.md",
     "Computer science/Languages and technologies/TypeScript/Mapping types модифікатори.md",
