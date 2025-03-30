@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
+                "file": "Computer science/Languages and technologies/TypeScript/Union.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Literal"
+              "title": "Union"
             }
           },
           {
@@ -280,9 +280,10 @@
   },
   "active": "6f768b93d5c478ac",
   "lastOpenFiles": [
+    "Computer science/Languages and technologies/TypeScript/inbox/Just some interesting stuff.md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
     "Computer science/Languages and technologies/TypeScript/Mapped types.md",
     "Computer science/Languages and technologies/TypeScript/Boolean це аліас для Union true or false.md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
     "Computer science/Languages and technologies/TypeScript/inbox/Const assertions (as const).md",
     "Computer science/Languages and technologies/TypeScript/inbox/Literal Types.md",
     "Daily notes/29-03-2025.md",
@@ -308,7 +309,6 @@
     "Computer science/Algorithms and Data structures/Algorithms and Data structures.md",
     "stuff/Sources/Grokking Algorithms.md",
     "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
-    "Computer science/Algorithms and Data structures/Data structures/Stack.md",
     "inbox/Untitled",
     "Knowledge",
     "stuff/assets/Computer Science/Base/open-source.png",
