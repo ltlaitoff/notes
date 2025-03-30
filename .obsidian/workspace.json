@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Languages and technologies/TypeScript/Union.md",
+                "file": "Computer science/Languages and technologies/JavaScript Host Environment/Event loop fast notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Union"
+              "title": "Event loop fast notes"
             }
           },
           {
@@ -280,6 +280,11 @@
   },
   "active": "6f768b93d5c478ac",
   "lastOpenFiles": [
+    "stuff/assets/Pasted image 20250330212255.png",
+    "Computer science/Languages and technologies/JavaScript Host Environment/Event loop fast notes.md",
+    "Computer science/Languages and technologies/TypeScript/Union.md",
+    "Computer science/Languages and technologies/JavaScript Host Environment",
+    "Computer science/Languages and technologies/JavaScript/Event loop",
     "Computer science/Languages and technologies/TypeScript/inbox/Just some interesting stuff.md",
     "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
     "Computer science/Languages and technologies/TypeScript/Mapped types.md",
@@ -300,15 +305,12 @@
     "Computer science/Languages and technologies/TypeScript/Виведення типів через infer.md",
     "Computer science/Languages and technologies/TypeScript/Обмеження через умовні типи.md",
     "Untitled.md",
-    "Computer science/Languages and technologies/TypeScript/Union.md",
     "Daily notes/26-03-2025.md",
     "Computer science/Algorithms and Data structures/Data structures/Queue.md",
     "inbox/Deep Work.md",
     "Daily notes/27-03-2025.md",
     "Computer science/Languages and technologies/TypeScript/keyof.md",
     "Computer science/Algorithms and Data structures/Algorithms and Data structures.md",
-    "stuff/Sources/Grokking Algorithms.md",
-    "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
     "inbox/Untitled",
     "Knowledge",
     "stuff/assets/Computer Science/Base/open-source.png",
@@ -320,12 +322,9 @@
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman permutations table.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman map paths.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman map.png",
-    "Daily notes",
     "stuff/assets/Computer Science/Algorithms and data structures/Arrays and Linked list Big O.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Linked list in memory with links.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Linked list in memory without links example.png",
-    "stuff/assets/Computer Science/Algorithms and data structures/Array how saved.png",
-    "Computer science/Algorithms and Data structures/Data structures/Array.md~",
     "Computer science/Algorithms and Data structures/Untitled.canvas"
   ]
 }

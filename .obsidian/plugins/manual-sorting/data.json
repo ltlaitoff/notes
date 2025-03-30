@@ -66,12 +66,16 @@
     "Computer science/Base/Function/Чиста функція.md"
   ],
   "Computer science/Languages and technologies": [
+    "Computer science/Languages and technologies/JavaScript Host Environment",
     "Computer science/Languages and technologies/JavaScript",
     "Computer science/Languages and technologies/React",
     "Computer science/Languages and technologies/TypeScript"
   ],
   "Computer science/Languages and technologies/JavaScript": [
     "Computer science/Languages and technologies/JavaScript/JavaScript.md"
+  ],
+  "Computer science/Languages and technologies/JavaScript Host Environment": [
+    "Computer science/Languages and technologies/JavaScript Host Environment/Event loop fast notes.md"
   ],
   "Computer science/Languages and technologies/React": [
     "Computer science/Languages and technologies/React/React.md"
