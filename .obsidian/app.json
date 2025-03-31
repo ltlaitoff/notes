@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "stuff/assets",
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "останього",
+    "фукнція",
+    "усталість",
+    "відкидуються",
+    "громістко"
+  ],
+  "vimMode": false
+}
