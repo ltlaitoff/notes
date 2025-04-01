@@ -7,13 +7,13 @@ kanban-plugin: board
 ## TODO
 
 - [ ] Event loop
-- [ ] Task or Macrotask
-- [ ] Microtask
-- [ ] Task queue or Callback queue
 
 
 ## IN PROGRESS
 
+- [ ] Task or Macrotask
+- [ ] Microtask
+- [ ] Task queue or Callback queue
 
 
 ## DONE

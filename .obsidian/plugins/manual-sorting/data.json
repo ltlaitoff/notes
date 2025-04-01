@@ -76,6 +76,8 @@
     "Computer science/Languages and technologies/JavaScript/JavaScript.md"
   ],
   "Computer science/Languages and technologies/JavaScript Runtime Environment": [
+    "Computer science/Languages and technologies/JavaScript Runtime Environment/Microtask and Microtask queue.md",
+    "Computer science/Languages and technologies/JavaScript Runtime Environment/Task and Task queue.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop diagram.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",

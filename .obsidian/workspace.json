@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",
+                "file": "Computer science/Languages and technologies/JavaScript Runtime Environment/Task and Task queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Event loop"
+              "title": "Task and Task queue"
             }
           },
           {
@@ -51,23 +51,30 @@
             "id": "fc19223afcfd448a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Computer science/Languages and technologies/JavaScript Runtime Environment/JS Runtime.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "JS Runtime"
+              "icon": "lucide-file",
+              "title": "Event loop"
+            }
+          },
+          {
+            "id": "7432a5537230c0ac",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "stuff/assets/Obsidian/Callouts.png"
+              },
+              "icon": "lucide-image",
+              "title": "Callouts"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -268,18 +275,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8ec02e3a58a1369c",
+  "active": "fc19223afcfd448a",
   "lastOpenFiles": [
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop diagram.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",
-    "Excalidraw",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/JS Runtime.md",
+    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",
+    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop diagram.md",
+    "Computer science/Languages and technologies/JavaScript Runtime Environment/Task and Task queue.md",
+    "Computer science/Languages and technologies/JavaScript Runtime Environment/Microtask and Microtask queue.md",
+    "stuff/assets/Obsidian/Callouts.png",
+    "Excalidraw",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop fast notes.md",
     "Computer science/Algorithms and Data structures/Call stack.md",
     "Daily notes/31-03-2025.md",
     "Daily notes/27-03-2025.md",
     "Computer science/Algorithms and Data structures/Data structures/Queue.md",
-    "stuff/assets/Obsidian/Callouts.png",
     "Computer science/Languages and technologies/TypeScript/TypeScript.md",
     "stuff/assets/Pasted image 20250330212255.png",
     "Computer science/Languages and technologies/TypeScript/Union.md",
@@ -301,8 +310,6 @@
     "Computer science/Languages and technologies/TypeScript/todo",
     "Computer science/Languages and technologies/TypeScript/Умовні типи.md",
     "Computer science/Languages and technologies/TypeScript/Виведення типів через infer.md",
-    "Computer science/Languages and technologies/TypeScript/Обмеження через умовні типи.md",
-    "Untitled.md",
     "inbox/Untitled",
     "Knowledge",
     "stuff/assets/Computer Science/Base/open-source.png",
