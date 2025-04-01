@@ -16,6 +16,7 @@
     "Computer science/Operational systems"
   ],
   "Computer science/Algorithms and Data structures": [
+    "Computer science/Algorithms and Data structures/Call stack.md",
     "Computer science/Algorithms and Data structures/Algorithms",
     "Computer science/Algorithms and Data structures/Big O notation",
     "Computer science/Algorithms and Data structures/Data structures",
@@ -75,6 +76,9 @@
     "Computer science/Languages and technologies/JavaScript/JavaScript.md"
   ],
   "Computer science/Languages and technologies/JavaScript Runtime Environment": [
+    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop diagram.md",
+    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",
+    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/JS Runtime.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop fast notes.md"
   ],
@@ -106,6 +110,7 @@
   ],
   "Computer science/Operational systems": [],
   "Daily notes": [
+    "Daily notes/31-03-2025.md",
     "Daily notes/29-03-2025.md",
     "Daily notes/27-03-2025.md",
     "Daily notes/20-03-2025.md",

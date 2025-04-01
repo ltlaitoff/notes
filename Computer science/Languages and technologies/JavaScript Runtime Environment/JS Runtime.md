@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Call stack from Groking to algorithms
 - [ ] Event loop
 - [ ] Task or Macrotask
 - [ ] Microtask
@@ -19,6 +18,7 @@ kanban-plugin: board
 
 ## DONE
 
+- [ ] Call stack from Groking to algorithms
 
 
 
