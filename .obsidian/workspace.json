@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",
+                "file": "Computer science/Languages and technologies/TypeScript/inbox/Literal Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Event loop"
+              "title": "Literal Types"
             }
           },
           {
@@ -277,8 +277,12 @@
   },
   "active": "fc19223afcfd448a",
   "lastOpenFiles": [
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/JS Runtime.md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Template Literal Types.md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Const assertions (as const).md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
+    "Computer science/Languages and technologies/TypeScript/inbox/Just some interesting stuff.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",
+    "Computer science/Languages and technologies/JavaScript Runtime Environment/JS Runtime.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop diagram.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Task and Task queue.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Microtask and Microtask queue.md",
@@ -294,14 +298,10 @@
     "Computer science/Languages and technologies/TypeScript/Union.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment",
     "Computer science/Languages and technologies/JavaScript/Event loop",
-    "Computer science/Languages and technologies/TypeScript/inbox/Just some interesting stuff.md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
     "Computer science/Languages and technologies/TypeScript/Mapped types.md",
     "Computer science/Languages and technologies/TypeScript/Boolean це аліас для Union true or false.md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Const assertions (as const).md",
     "Computer science/Languages and technologies/TypeScript/inbox/Literal Types.md",
     "Daily notes/29-03-2025.md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Template Literal Types.md",
     "Computer science/Languages and technologies/TypeScript/Зміна ключів через \"as\" в mapping types.md",
     "Computer science/Languages and technologies/TypeScript/inbox",
     "Computer science/Languages and technologies/TypeScript/Розподільні умовні типи.md",
