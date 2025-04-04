@@ -181,6 +181,17 @@ attention residue
 
 
 
+People fight desires all
+day long
+
+You have a finite amount of willpower that becomes depleted as you use
+it
+
+he key to
+developing a deep work habit is to move beyond good intentions and add routines and
+rituals to your working life designed to minimize the amount of your limited
+willpower necessary to transition into and maintain a state of unbroken concentration.
+
 
 
 
