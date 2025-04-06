@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Deep Work.md",
+                "file": "inbox/Willpower.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deep Work"
+              "title": "Willpower"
             }
           },
           {
@@ -277,6 +277,8 @@
   },
   "active": "fc19223afcfd448a",
   "lastOpenFiles": [
+    "inbox/Deep Work.md",
+    "inbox/Willpower.md",
     "Computer science/Languages and technologies/TypeScript/inbox/Literal Types.md",
     "Computer science/Languages and technologies/TypeScript/inbox/Template Literal Types.md",
     "Computer science/Languages and technologies/TypeScript/inbox/Const assertions (as const).md",
@@ -296,7 +298,7 @@
     "Computer science/Algorithms and Data structures/Data structures/Queue.md",
     "Computer science/Languages and technologies/TypeScript/TypeScript.md",
     "stuff/assets/Pasted image 20250330212255.png",
-    "Computer science/Languages and technologies/TypeScript/Union.md",
+    "stuff/assets/Computer Science/Algorithms and data structures/Union.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment",
     "Computer science/Languages and technologies/JavaScript/Event loop",
     "Computer science/Languages and technologies/TypeScript/Mapped types.md",
@@ -308,8 +310,6 @@
     "Computer science/Languages and technologies/TypeScript/Mapping types модифікатори.md",
     "Computer science/Languages and technologies/TypeScript/todo/Index Signatures.md",
     "Computer science/Languages and technologies/TypeScript/todo",
-    "Computer science/Languages and technologies/TypeScript/Умовні типи.md",
-    "Computer science/Languages and technologies/TypeScript/Виведення типів через infer.md",
     "inbox/Untitled",
     "Knowledge",
     "stuff/assets/Computer Science/Base/open-source.png",

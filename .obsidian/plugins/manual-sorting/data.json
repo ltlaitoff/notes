@@ -100,7 +100,6 @@
     "Computer science/Languages and technologies/TypeScript/keyof.md",
     "Computer science/Languages and technologies/TypeScript/TypeScript.md",
     "Computer science/Languages and technologies/TypeScript/TypeScript typeof.md",
-    "Computer science/Languages and technologies/TypeScript/Union.md",
     "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md"
   ],
   "Computer science/Languages and technologies/TypeScript/inbox": [
@@ -122,6 +121,7 @@
     "Daily notes/26-03-2025.md"
   ],
   "inbox": [
+    "inbox/Willpower.md",
     "inbox/Deep Work.md",
     "inbox/JWT vs Session.md"
   ],
@@ -161,7 +161,8 @@
     "stuff/assets/Computer Science/Algorithms and data structures/Linked list in memory without links example.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman map.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman map paths.png",
-    "stuff/assets/Computer Science/Algorithms and data structures/Salesman permutations table.png"
+    "stuff/assets/Computer Science/Algorithms and data structures/Salesman permutations table.png",
+    "stuff/assets/Computer Science/Algorithms and data structures/Union.md"
   ],
   "stuff/assets/Computer Science/Base": [
     "stuff/assets/Computer Science/Base/closed-source.png",
