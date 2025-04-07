@@ -8,57 +8,71 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ec02e3a58a1369c",
+            "id": "edb92dcc2f5a7544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Languages and technologies/JavaScript Runtime Environment/Task and Task queue.md",
+                "file": "Computer science/Auth/JWT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task and Task queue"
+              "title": "JWT"
             }
           },
           {
-            "id": "638bf40766bb105b",
+            "id": "8ff7cd59c31aeb7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Auth/JWT.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "JWT"
+            }
+          },
+          {
+            "id": "4db64223c2020b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Auth/Сесії.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Сесії"
+            }
+          },
+          {
+            "id": "118dce1274593ad1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Auth/Auth.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Auth"
+            }
+          },
+          {
+            "id": "4f5cf46e2bb2524b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop diagram.md"
+                "file": "Excalidraw/Session.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Event loop diagram"
-            }
-          },
-          {
-            "id": "3a5c1d66ebc62d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer science/Algorithms and Data structures/Call stack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Call stack"
-            }
-          },
-          {
-            "id": "fc19223afcfd448a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/Willpower.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Willpower"
+              "title": "Session"
             }
           },
           {
@@ -72,9 +86,37 @@
               "icon": "lucide-image",
               "title": "Callouts"
             }
+          },
+          {
+            "id": "3a5c1d66ebc62d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/07-04-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07-04-2025"
+            }
+          },
+          {
+            "id": "cf72fcf366b9a3a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/JWT vs Session.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JWT vs Session"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,10 +317,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fc19223afcfd448a",
+  "active": "8ff7cd59c31aeb7b",
   "lastOpenFiles": [
-    "inbox/Deep Work.md",
+    "Computer science/Auth/Сесії.md",
+    "Computer science/Auth/JWT.md",
+    "Computer science/Auth/Authorization.md",
+    "Computer science/Auth/Auth.md",
+    "inbox/JWT vs Session.md",
+    "Excalidraw/Session.md",
+    "Computer science/Auth/AAA.md",
+    "Computer science/Auth/Authentication.md",
+    "Excalidraw",
+    "Daily notes/07-04-2025.md",
+    "stuff/assets/Obsidian/Callouts.png",
+    "Computer science/Languages and technologies/JavaScript Runtime Environment/Task and Task queue.md",
+    "Computer science/Auth",
+    "Computer science/Algorithms and Data structures/Call stack.md",
     "inbox/Willpower.md",
+    "inbox/Deep Work.md",
     "Computer science/Languages and technologies/TypeScript/inbox/Literal Types.md",
     "Computer science/Languages and technologies/TypeScript/inbox/Template Literal Types.md",
     "Computer science/Languages and technologies/TypeScript/inbox/Const assertions (as const).md",
@@ -287,28 +343,15 @@
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/JS Runtime.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop diagram.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Task and Task queue.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Microtask and Microtask queue.md",
-    "stuff/assets/Obsidian/Callouts.png",
-    "Excalidraw",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop fast notes.md",
-    "Computer science/Algorithms and Data structures/Call stack.md",
     "Daily notes/31-03-2025.md",
     "Daily notes/27-03-2025.md",
     "Computer science/Algorithms and Data structures/Data structures/Queue.md",
-    "Computer science/Languages and technologies/TypeScript/TypeScript.md",
     "stuff/assets/Pasted image 20250330212255.png",
-    "stuff/assets/Computer Science/Algorithms and data structures/Union.md",
     "Computer science/Languages and technologies/JavaScript Runtime Environment",
     "Computer science/Languages and technologies/JavaScript/Event loop",
-    "Computer science/Languages and technologies/TypeScript/Mapped types.md",
-    "Computer science/Languages and technologies/TypeScript/Boolean це аліас для Union true or false.md",
-    "Daily notes/29-03-2025.md",
-    "Computer science/Languages and technologies/TypeScript/Зміна ключів через \"as\" в mapping types.md",
     "Computer science/Languages and technologies/TypeScript/inbox",
-    "Computer science/Languages and technologies/TypeScript/Розподільні умовні типи.md",
-    "Computer science/Languages and technologies/TypeScript/Mapping types модифікатори.md",
-    "Computer science/Languages and technologies/TypeScript/todo/Index Signatures.md",
     "Computer science/Languages and technologies/TypeScript/todo",
     "inbox/Untitled",
     "Knowledge",
@@ -316,7 +359,6 @@
     "stuff/assets/Computer Science/Base",
     "stuff/assets/Computer Science/Base/closed-source.png",
     "Computer science/Base/Function",
-    "Computer science/Base",
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman permutations table.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman map paths.png",
     "stuff/assets/Computer Science/Algorithms and data structures/Salesman map.png",
