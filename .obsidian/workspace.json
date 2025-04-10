@@ -8,115 +8,64 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edb92dcc2f5a7544",
+            "id": "9f264f9c7f5f9977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/Auth/JWT.md",
+                "file": "inbox/Willpower inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JWT"
+              "title": "Willpower inbox"
             }
           },
           {
-            "id": "8ff7cd59c31aeb7b",
+            "id": "65f13ac346292144",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer science/Auth/JWT.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "JWT"
+              "title": "New tab"
             }
           },
           {
-            "id": "4db64223c2020b56",
+            "id": "90fcafefadafbdb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer science/Auth/Сесії.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Сесії"
+              "title": "New tab"
             }
           },
           {
-            "id": "118dce1274593ad1",
+            "id": "a071a9a0ca906f5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer science/Auth/Auth.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Auth"
+              "title": "New tab"
             }
           },
           {
-            "id": "4f5cf46e2bb2524b",
+            "id": "1623ed8b209f153a",
             "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Session.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Session"
-            }
-          },
-          {
-            "id": "7432a5537230c0ac",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "image",
               "state": {
                 "file": "stuff/assets/Obsidian/Callouts.png"
               },
+              "pinned": true,
               "icon": "lucide-image",
               "title": "Callouts"
             }
-          },
-          {
-            "id": "3a5c1d66ebc62d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/07-04-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07-04-2025"
-            }
-          },
-          {
-            "id": "cf72fcf366b9a3a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/JWT vs Session.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JWT vs Session"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,10 +266,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8ff7cd59c31aeb7b",
+  "active": "9f264f9c7f5f9977",
   "lastOpenFiles": [
-    "Computer science/Auth/Сесії.md",
+    "stuff/assets/Obsidian/Callouts.png",
     "Computer science/Auth/JWT.md",
+    "Computer science/Auth/Сесії.md",
     "Computer science/Auth/Authorization.md",
     "Computer science/Auth/Auth.md",
     "inbox/JWT vs Session.md",
@@ -329,11 +279,10 @@
     "Computer science/Auth/Authentication.md",
     "Excalidraw",
     "Daily notes/07-04-2025.md",
-    "stuff/assets/Obsidian/Callouts.png",
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Task and Task queue.md",
     "Computer science/Auth",
     "Computer science/Algorithms and Data structures/Call stack.md",
-    "inbox/Willpower.md",
+    "inbox/Willpower inbox.md",
     "inbox/Deep Work.md",
     "Computer science/Languages and technologies/TypeScript/inbox/Literal Types.md",
     "Computer science/Languages and technologies/TypeScript/inbox/Template Literal Types.md",
@@ -347,7 +296,6 @@
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop fast notes.md",
     "Daily notes/31-03-2025.md",
     "Daily notes/27-03-2025.md",
-    "Computer science/Algorithms and Data structures/Data structures/Queue.md",
     "stuff/assets/Pasted image 20250330212255.png",
     "Computer science/Languages and technologies/JavaScript Runtime Environment",
     "Computer science/Languages and technologies/JavaScript/Event loop",
