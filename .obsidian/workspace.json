@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Willpower inbox.md",
+                "file": "Computer science/Algorithms and Data structures/Big O notation/O(1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Willpower inbox"
+              "title": "O(1)"
+            }
+          },
+          {
+            "id": "4c2af3ff86601d7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Algorithms and Data structures/Data structures/Array.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Array"
+            }
+          },
+          {
+            "id": "9d57062713039c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science/Algorithms and Data structures/Recursion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recursion"
             }
           },
           {
@@ -65,7 +93,8 @@
               "title": "Callouts"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -266,8 +295,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f264f9c7f5f9977",
+  "active": "9d57062713039c3c",
   "lastOpenFiles": [
+    "Computer science/Algorithms and Data structures/Індекс.md",
+    "Computer science/Algorithms and Data structures/Алгоритм.md",
+    "Computer science/Algorithms and Data structures/Big O notation/Big O notation.md",
+    "Computer science/Algorithms and Data structures/Big O notation/O(n^2).md",
+    "Computer science/Algorithms and Data structures/Big O notation/O(n).md",
+    "Computer science/Algorithms and Data structures/Big O notation/O(n!).md",
+    "Computer science/Algorithms and Data structures/Big O notation/O(log n).md",
+    "Computer science/Algorithms and Data structures/Data structures/Array.md",
+    "Computer science/Algorithms and Data structures/Data structures/Linked list.md",
+    "Computer science/Algorithms and Data structures/Random access.md",
+    "Computer science/Algorithms and Data structures/Big O notation/O(1).md",
+    "Computer science/Algorithms and Data structures/Big O notation/O(n log n).md",
+    "Computer science/Algorithms and Data structures/Algorithms/Binary Search.md",
+    "inbox/Willpower inbox.md",
     "stuff/assets/Obsidian/Callouts.png",
     "Computer science/Auth/JWT.md",
     "Computer science/Auth/Сесії.md",
@@ -282,20 +325,7 @@
     "Computer science/Languages and technologies/JavaScript Runtime Environment/Task and Task queue.md",
     "Computer science/Auth",
     "Computer science/Algorithms and Data structures/Call stack.md",
-    "inbox/Willpower inbox.md",
     "inbox/Deep Work.md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Literal Types.md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Template Literal Types.md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Const assertions (as const).md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Just some interesting stuff.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/JS Runtime.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop diagram.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Microtask and Microtask queue.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop fast notes.md",
-    "Daily notes/31-03-2025.md",
-    "Daily notes/27-03-2025.md",
     "stuff/assets/Pasted image 20250330212255.png",
     "Computer science/Languages and technologies/JavaScript Runtime Environment",
     "Computer science/Languages and technologies/JavaScript/Event loop",
