@@ -140,12 +140,16 @@
     "inbox/JWT vs Session.md"
   ],
   "Knowledge": [
+    "Knowledge/my",
     "Knowledge/Don't do more today than you can completely recover from by tomorrow.md",
     "Knowledge/В будь-який момент рішення може змінити курс нашого життя назавджи.md",
     "Knowledge/Правило 40%.md",
     "Knowledge/Робити що завгодно не складно. Складно почати це робити.md",
     "Knowledge/Шлях яким ми йдемо до речей такий самий важливий, як ці речі.md",
     "Knowledge/Якщо ми вигоримо на початку, то ми ніколи не дійдемо до того, чого хочемо.md"
+  ],
+  "Knowledge/my": [
+    "Knowledge/my/TDD підходить тільки коли ти розумієш що повинно бути на всі 110%.md"
   ],
   "Math": [
     "Math/Базові знання.md",
