@@ -55,7 +55,7 @@ java.lang.Exception: Stack trace
 	at Main.main(Main.java:3)
 ```
 
-Якщо в call stack немає елементів, це означає, що програма виконана та ми можемо робити якісь інші речі. Наприклад, по такому принципу працює [[Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop]]
+Якщо в call stack немає елементів, це означає, що програма виконана та ми можемо робити якісь інші речі. Наприклад, по такому принципу працює [[Event loop]]
 
 ### Переповнення стека викликів
 

@@ -1,4 +1,3 @@
-
 React - це JavaScript бібліотека для [[Web|web]] та [[Native|нативних]] користувацьких інтерфейсів 
 
 #react #to-review

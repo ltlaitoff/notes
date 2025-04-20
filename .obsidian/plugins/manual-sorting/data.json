@@ -1,11 +1,11 @@
 {
   "/": [
     "Excalidraw",
+    "inbox",
     "Computer science",
     "Knowledge",
     "Math",
     "Daily notes",
-    "inbox",
     "stuff",
     "Mapped types.md",
     "README.md"
@@ -77,47 +77,8 @@
     "Computer science/Base/Function/Чиста функція.md"
   ],
   "Computer science/Languages and technologies": [
-    "Computer science/Languages and technologies/JavaScript Runtime Environment",
-    "Computer science/Languages and technologies/JavaScript",
-    "Computer science/Languages and technologies/React",
-    "Computer science/Languages and technologies/TypeScript"
-  ],
-  "Computer science/Languages and technologies/JavaScript": [
-    "Computer science/Languages and technologies/JavaScript/JavaScript.md"
-  ],
-  "Computer science/Languages and technologies/JavaScript Runtime Environment": [
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Microtask and Microtask queue.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Task and Task queue.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop diagram.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/JS Runtime.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Event loop fast notes.md"
-  ],
-  "Computer science/Languages and technologies/React": [
-    "Computer science/Languages and technologies/React/React.md"
-  ],
-  "Computer science/Languages and technologies/TypeScript": [
-    "Computer science/Languages and technologies/TypeScript/inbox",
-    "Computer science/Languages and technologies/TypeScript/Boolean це аліас для Union true or false.md",
-    "Computer science/Languages and technologies/TypeScript/Зміна ключів через \"as\" в mapping types.md",
-    "Computer science/Languages and technologies/TypeScript/Mapping types модифікатори.md",
-    "Computer science/Languages and technologies/TypeScript/Mapped types.md",
-    "Computer science/Languages and technologies/TypeScript/Розподільні умовні типи.md",
-    "Computer science/Languages and technologies/TypeScript/Виведення типів через infer.md",
-    "Computer science/Languages and technologies/TypeScript/Обмеження через умовні типи.md",
-    "Computer science/Languages and technologies/TypeScript/Умовні типи.md",
-    "Computer science/Languages and technologies/TypeScript/keyof.md",
-    "Computer science/Languages and technologies/TypeScript/TypeScript.md",
-    "Computer science/Languages and technologies/TypeScript/TypeScript typeof.md",
-    "Computer science/Languages and technologies/TypeScript/Доступ до типів за індексом.md"
-  ],
-  "Computer science/Languages and technologies/TypeScript/inbox": [
-    "Computer science/Languages and technologies/TypeScript/inbox/Just some interesting stuff.md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Literal.md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Const assertions (as const).md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Template Literal Types.md",
-    "Computer science/Languages and technologies/TypeScript/inbox/Literal Types.md"
+    "Computer science/Languages and technologies/React.md",
+    "Computer science/Languages and technologies/JavaScript.md"
   ],
   "Computer science/Operational systems": [],
   "Daily notes": [
@@ -136,12 +97,53 @@
     "Excalidraw/Session.md"
   ],
   "inbox": [
-    "inbox/React Synchronizing with Effects.md",
+    "inbox/Languages and technologies",
     "inbox/Willpower inbox.md",
     "inbox/Deep Work.md",
     "inbox/JWT vs Session.md"
   ],
+  "inbox/Languages and technologies": [
+    "inbox/Languages and technologies/React",
+    "inbox/Languages and technologies/Event loop",
+    "inbox/Languages and technologies/TypeScript"
+  ],
+  "inbox/Languages and technologies/Event loop": [
+    "inbox/Languages and technologies/Event loop/Microtask and Microtask queue.md",
+    "inbox/Languages and technologies/Event loop/Task and Task queue.md",
+    "inbox/Languages and technologies/Event loop/Event loop diagram.md",
+    "inbox/Languages and technologies/Event loop/Event loop.md",
+    "inbox/Languages and technologies/Event loop/Event loop fast notes.md",
+    "inbox/Languages and technologies/Event loop/JS Runtime.md"
+  ],
+  "inbox/Languages and technologies/React": [
+    "inbox/Languages and technologies/React/Навіщо потрібен Effect, коли є Event?.md",
+    "inbox/Languages and technologies/React/Effect.md",
+    "inbox/Languages and technologies/React/React Synchronizing with Effects.md"
+  ],
+  "inbox/Languages and technologies/TypeScript": [
+    "inbox/Languages and technologies/TypeScript/TypeScript typeof.md",
+    "inbox/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
+    "inbox/Languages and technologies/TypeScript/keyof.md",
+    "inbox/Languages and technologies/TypeScript/TypeScript.md",
+    "inbox/Languages and technologies/TypeScript/Умовні типи.md",
+    "inbox/Languages and technologies/TypeScript/Обмеження через умовні типи.md",
+    "inbox/Languages and technologies/TypeScript/Boolean це аліас для Union true or false.md",
+    "inbox/Languages and technologies/TypeScript/Mapped types.md",
+    "inbox/Languages and technologies/TypeScript/Mapping types модифікатори.md",
+    "inbox/Languages and technologies/TypeScript/Виведення типів через infer.md",
+    "inbox/Languages and technologies/TypeScript/Зміна ключів через \"as\" в mapping types.md",
+    "inbox/Languages and technologies/TypeScript/Розподільні умовні типи.md",
+    "inbox/Languages and technologies/TypeScript/inbox"
+  ],
+  "inbox/Languages and technologies/TypeScript/inbox": [
+    "inbox/Languages and technologies/TypeScript/inbox/Just some interesting stuff.md",
+    "inbox/Languages and technologies/TypeScript/inbox/Literal.md",
+    "inbox/Languages and technologies/TypeScript/inbox/Const assertions (as const).md",
+    "inbox/Languages and technologies/TypeScript/inbox/Template Literal Types.md",
+    "inbox/Languages and technologies/TypeScript/inbox/Literal Types.md"
+  ],
   "Knowledge": [
+    "Knowledge/Нотатки повинні допомагати мислити, а не бути гарно написаними.md",
     "Knowledge/my",
     "Knowledge/Don't do more today than you can completely recover from by tomorrow.md",
     "Knowledge/В будь-який момент рішення може змінити курс нашого життя назавджи.md",

@@ -3,5 +3,8 @@
   "cssTheme": "",
   "baseFontSizeAction": true,
   "baseFontSize": 22,
-  "showRibbon": false
+  "showRibbon": false,
+  "enabledCssSnippets": [
+    "tabs"
+  ]
 }
