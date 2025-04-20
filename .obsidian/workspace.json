@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/my/TDD підходить тільки коли ти розумієш що повинно бути на всі 110%.md",
+                "file": "inbox/React Synchronizing with Effects.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "TDD підходить тільки коли ти розумієш що повинно бути на всі 110%"
+              "title": "React Synchronizing with Effects"
             }
           },
           {
@@ -297,8 +297,11 @@
   },
   "active": "9d57062713039c3c",
   "lastOpenFiles": [
-    "Computer science/Algorithms and Data structures/Recursion.md",
+    "stuff/assets/Obsidian/Callouts.png",
+    "inbox/React Synchronizing with Effects.md",
+    "Daily notes/20-04-2025.md",
     "Knowledge/my/TDD підходить тільки коли ти розумієш що повинно бути на всі 110%.md",
+    "Computer science/Algorithms and Data structures/Recursion.md",
     "Knowledge/my",
     "Computer science/Algorithms and Data structures/Індекс.md",
     "Computer science/Algorithms and Data structures/Алгоритм.md",
@@ -314,7 +317,6 @@
     "Computer science/Algorithms and Data structures/Big O notation/O(n log n).md",
     "Computer science/Algorithms and Data structures/Algorithms/Binary Search.md",
     "inbox/Willpower inbox.md",
-    "stuff/assets/Obsidian/Callouts.png",
     "Computer science/Auth/JWT.md",
     "Computer science/Auth/Сесії.md",
     "Computer science/Auth/Authorization.md",
@@ -322,10 +324,7 @@
     "inbox/JWT vs Session.md",
     "Excalidraw/Session.md",
     "Computer science/Auth/AAA.md",
-    "Computer science/Auth/Authentication.md",
     "Excalidraw",
-    "Daily notes/07-04-2025.md",
-    "Computer science/Languages and technologies/JavaScript Runtime Environment/Task and Task queue.md",
     "Computer science/Auth",
     "stuff/assets/Pasted image 20250330212255.png",
     "Computer science/Languages and technologies/JavaScript Runtime Environment",
