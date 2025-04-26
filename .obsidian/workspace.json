@@ -74,7 +74,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -275,10 +274,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3530ecb16ff13194",
+  "active": "9f264f9c7f5f9977",
   "lastOpenFiles": [
-    "inbox/Languages and technologies/React/React Synchronizing with Effects.md",
     "inbox/Languages and technologies/React/Effect в react.md",
+    "inbox/Languages and technologies/React/React Synchronizing with Effects.md",
     "inbox/Languages and technologies/React/Навіщо потрібен Effect, коли є Event?.md",
     "Knowledge/Нотатки повинні допомагати мислити, а не бути гарно написаними.md",
     "stuff/assets/Obsidian/Callouts.png",
