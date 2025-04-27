@@ -97,10 +97,16 @@
     "Excalidraw/Session.md"
   ],
   "inbox": [
+    "inbox/knowledge",
     "inbox/Languages and technologies",
     "inbox/Willpower inbox.md",
     "inbox/Deep Work.md",
     "inbox/JWT vs Session.md"
+  ],
+  "inbox/knowledge": [
+    "inbox/knowledge/Шлях НЕ краще, а ніж результат.md",
+    "inbox/knowledge/Правило двох днів.md",
+    "inbox/knowledge/Дія веде до мотивації так само, як мотивація до дії.md"
   ],
   "inbox/Languages and technologies": [
     "inbox/Languages and technologies/React",
