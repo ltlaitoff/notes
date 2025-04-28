@@ -99,13 +99,14 @@
   ],
   "inbox/Auth": [
     "inbox/Auth/to-check",
-    "inbox/Auth/Authorization.md",
-    "inbox/Auth/Authentication.md",
-    "inbox/Auth/Auth.md",
     "inbox/Auth/Сесії.md",
     "inbox/Auth/JWT.md"
   ],
   "inbox/Auth/to-check": [
+    "inbox/Auth/to-check/Наданя доступу до системи.md",
+    "inbox/Auth/to-check/Authorization.md",
+    "inbox/Auth/to-check/Authentication.md",
+    "inbox/Auth/to-check/Три фактори аутентифікації.md",
     "inbox/Auth/to-check/AAA.md"
   ],
   "inbox/knowledge": [

@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Auth/Authentication.md",
+                "file": "inbox/Auth/Сесії.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authentication"
+              "title": "Сесії"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Auth/Authentication.md",
+                "file": "inbox/Auth/to-check/Authentication.md",
                 "mode": "source",
                 "source": false
               },
@@ -294,15 +294,16 @@
   },
   "active": "335a0865cbbb48c1",
   "lastOpenFiles": [
-    "Knowledge/Нотатки повинні допомагати мислити, а не бути гарно написаними.md",
-    "inbox/Auth/Authentication.md",
-    "inbox/Auth/Authorization.md",
-    "inbox/Auth/to-check/AAA.md",
-    "inbox/Auth/to-check",
-    "inbox/Auth/Auth.md",
-    "inbox/Auth/JWT.md",
-    "Computer science/Auth",
+    "inbox/Auth/to-check/Authentication.md",
     "inbox/Auth/Сесії.md",
+    "inbox/Auth/JWT.md",
+    "inbox/Auth/to-check/Наданя доступу до системи.md",
+    "inbox/Auth/to-check/Authorization.md",
+    "inbox/Auth/to-check/Три фактори аутентифікації.md",
+    "inbox/Auth/to-check/AAA.md",
+    "Knowledge/Нотатки повинні допомагати мислити, а не бути гарно написаними.md",
+    "inbox/Auth/to-check",
+    "Computer science/Auth",
     "inbox/knowledge/Дія веде до мотивації так само, як мотивація до дії.md",
     "inbox/knowledge/Шлях НЕ краще, а ніж результат.md",
     "inbox/knowledge/Правило двох днів.md",
