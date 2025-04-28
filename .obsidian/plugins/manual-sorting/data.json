@@ -11,10 +11,10 @@
     "README.md"
   ],
   "Computer science": [
+    "Computer science/Auth",
     "Computer science/Algorithms and Data structures",
     "Computer science/Base",
     "Computer science/Languages and technologies",
-    "Computer science/Auth",
     "Computer science/Operational systems"
   ],
   "Computer science/Algorithms and Data structures": [
@@ -54,14 +54,7 @@
     "Computer science/Algorithms and Data structures/Data structures/Array.md",
     "Computer science/Algorithms and Data structures/Data structures/Linked list.md"
   ],
-  "Computer science/Auth": [
-    "Computer science/Auth/Authorization.md",
-    "Computer science/Auth/Authentication.md",
-    "Computer science/Auth/AAA.md",
-    "Computer science/Auth/Auth.md",
-    "Computer science/Auth/Сесії.md",
-    "Computer science/Auth/JWT.md"
-  ],
+  "Computer science/Auth": [],
   "Computer science/Base": [
     "Computer science/Base/Function",
     "Computer science/Base/Closed source.md",
@@ -97,11 +90,23 @@
     "Excalidraw/Session.md"
   ],
   "inbox": [
+    "inbox/Auth",
     "inbox/knowledge",
     "inbox/Languages and technologies",
     "inbox/Willpower inbox.md",
     "inbox/Deep Work.md",
     "inbox/JWT vs Session.md"
+  ],
+  "inbox/Auth": [
+    "inbox/Auth/to-check",
+    "inbox/Auth/Authorization.md",
+    "inbox/Auth/Authentication.md",
+    "inbox/Auth/Auth.md",
+    "inbox/Auth/Сесії.md",
+    "inbox/Auth/JWT.md"
+  ],
+  "inbox/Auth/to-check": [
+    "inbox/Auth/to-check/AAA.md"
   ],
   "inbox/knowledge": [
     "inbox/knowledge/Шлях НЕ краще, а ніж результат.md",
