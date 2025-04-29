@@ -99,10 +99,11 @@
   ],
   "inbox/Auth": [
     "inbox/Auth/to-check",
-    "inbox/Auth/Сесії.md",
-    "inbox/Auth/JWT.md"
+    "inbox/Auth/Auth через JWT.md",
+    "inbox/Auth/Json Web Token.md"
   ],
   "inbox/Auth/to-check": [
+    "inbox/Auth/to-check/Сесії.md",
     "inbox/Auth/to-check/Наданя доступу до системи.md",
     "inbox/Auth/to-check/Authorization.md",
     "inbox/Auth/to-check/Authentication.md",
