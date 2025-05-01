@@ -98,11 +98,12 @@
     "inbox/JWT vs Session.md"
   ],
   "inbox/Auth": [
+    "inbox/Auth/Public and private keys.md",
     "inbox/Auth/to-check",
-    "inbox/Auth/Auth через JWT.md",
-    "inbox/Auth/Json Web Token.md"
+    "inbox/Auth/Auth через JWT.md"
   ],
   "inbox/Auth/to-check": [
+    "inbox/Auth/to-check/Json Web Token.md",
     "inbox/Auth/to-check/Сесії.md",
     "inbox/Auth/to-check/Наданя доступу до системи.md",
     "inbox/Auth/to-check/Authorization.md",

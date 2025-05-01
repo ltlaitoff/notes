@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Auth/Json Web Token.md",
+                "file": "inbox/Auth/Auth через JWT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Json Web Token"
+              "title": "Auth через JWT"
             }
           },
           {
@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "Нотатки повинні допомагати мислити, а не бути гарно написаними"
             }
+          },
+          {
+            "id": "5d2d69d8d9d0f300",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "stuff/assets/Obsidian/Callouts.png"
+              },
+              "icon": "lucide-image",
+              "title": "Callouts"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -292,11 +304,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "335a0865cbbb48c1",
+  "active": "0f908de68b0240e5",
   "lastOpenFiles": [
-    "inbox/Auth/Auth через JWT.md",
-    "inbox/Auth/Json Web Token.md",
     "inbox/Auth/to-check/Сесії.md",
+    "inbox/Auth/Auth через JWT.md",
+    "inbox/Auth/to-check/Json Web Token.md",
+    "inbox/Auth/Public and private keys.md",
+    "inbox/Languages and technologies/React/Effect в react.md",
+    "stuff/assets/Obsidian/Callouts.png",
     "inbox/Auth/to-check/Authentication.md",
     "inbox/Languages and technologies/React/Навіщо потрібен Effect, коли є Event?.md",
     "inbox/Auth/to-check/Наданя доступу до системи.md",
@@ -315,8 +330,6 @@
     "Knowledge/my/TDD підходить тільки коли ти розумієш що повинно бути на всі 110%.md",
     "inbox/knowledge",
     "inbox/Languages and technologies/React/React Synchronizing with Effects.md",
-    "inbox/Languages and technologies/React/Effect в react.md",
-    "stuff/assets/Obsidian/Callouts.png",
     "Computer science/Algorithms and Data structures/Big O notation/O(1).md",
     "inbox/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
     "inbox/Languages and technologies/React",
@@ -325,7 +338,6 @@
     "inbox/Languages and technologies/Event loop/Event loop.md",
     "inbox/Languages and technologies/Event loop",
     "inbox/Languages and technologies/Event loop/Event loop diagram.md",
-    "inbox/Languages and technologies/TypeScript/Boolean це аліас для Union true or false.md",
     "inbox/Languages and technologies",
     "inbox/Languages and technologies/TypeScript",
     "Knowledge/my",
