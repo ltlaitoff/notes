@@ -98,7 +98,8 @@
     "inbox/JWT vs Session.md"
   ],
   "inbox/Auth": [
-    "inbox/Auth/Public and private keys.md",
+    "inbox/Auth/_.md",
+    "inbox/Auth/Public and private key pair.md",
     "inbox/Auth/to-check",
     "inbox/Auth/Auth через JWT.md"
   ],

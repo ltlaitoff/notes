@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Auth/Auth через JWT.md",
+                "file": "inbox/Auth/Public and private key pair.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auth через JWT"
+              "title": "Public and private key pair"
             }
           },
           {
@@ -308,9 +308,10 @@
   "lastOpenFiles": [
     "inbox/Auth/to-check/Сесії.md",
     "inbox/Auth/Auth через JWT.md",
-    "inbox/Auth/to-check/Json Web Token.md",
-    "inbox/Auth/Public and private keys.md",
+    "inbox/Auth/_.md",
+    "inbox/Auth/Public and private key pair.md",
     "inbox/Languages and technologies/React/Effect в react.md",
+    "inbox/Auth/to-check/Json Web Token.md",
     "stuff/assets/Obsidian/Callouts.png",
     "inbox/Auth/to-check/Authentication.md",
     "inbox/Languages and technologies/React/Навіщо потрібен Effect, коли є Event?.md",
@@ -337,7 +338,6 @@
     "inbox/Languages and technologies/Event loop/Event loop fast notes.md",
     "inbox/Languages and technologies/Event loop/Event loop.md",
     "inbox/Languages and technologies/Event loop",
-    "inbox/Languages and technologies/Event loop/Event loop diagram.md",
     "inbox/Languages and technologies",
     "inbox/Languages and technologies/TypeScript",
     "Knowledge/my",
