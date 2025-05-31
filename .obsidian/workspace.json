@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Шлях джедая/В стані стресу, тривоги та втоми нам все здається важливим.md",
+                "file": "inbox/Краще почати не ідеально, а ніж бути паралізованим вірою в ідеальне.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "В стані стресу, тривоги та втоми нам все здається важливим"
+              "title": "Краще почати не ідеально, а ніж бути паралізованим вірою в ідеальне"
             }
           },
           {
@@ -306,8 +306,9 @@
   },
   "active": "0f908de68b0240e5",
   "lastOpenFiles": [
-    "inbox/Шлях джедая/Недостача сна робить нас більш реактивними.md",
     "inbox/Шлях джедая/В стані стресу, тривоги та втоми нам все здається важливим.md",
+    "inbox/Краще почати не ідеально, а ніж бути паралізованим вірою в ідеальне.md",
+    "inbox/Шлях джедая/Недостача сна робить нас більш реактивними.md",
     "inbox/Шлях джедая/Коли ми тривожемось ми більш уважні до повідомлень.md",
     "inbox/Auth/Auth через JWT.md",
     "inbox/Шлях джедая",
@@ -336,7 +337,6 @@
     "inbox/knowledge",
     "inbox/Languages and technologies/React/React Synchronizing with Effects.md",
     "Computer science/Algorithms and Data structures/Big O notation/O(1).md",
-    "inbox/Languages and technologies/TypeScript/Доступ до типів за індексом.md",
     "inbox/Languages and technologies/React",
     "inbox/Languages and technologies/Event loop",
     "inbox/Languages and technologies",
