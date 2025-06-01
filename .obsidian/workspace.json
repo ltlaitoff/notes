@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Краще почати не ідеально, а ніж бути паралізованим вірою в ідеальне.md",
+                "file": "inbox/з відоса про проєкти/Нотатки по відосу.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Краще почати не ідеально, а ніж бути паралізованим вірою в ідеальне"
+              "title": "Нотатки по відосу"
             }
           },
           {
@@ -306,8 +306,16 @@
   },
   "active": "0f908de68b0240e5",
   "lastOpenFiles": [
-    "inbox/Шлях джедая/В стані стресу, тривоги та втоми нам все здається важливим.md",
+    "inbox/з відоса про проєкти/Ідея - чи треба це взагалі робити.md",
+    "inbox/з відоса про проєкти/Нотатки по відосу.md",
+    "inbox/з відоса про проєкти/Одна, максимум дві задачі з проєкту для мавпочки.md",
+    "inbox/з відоса про проєкти/Не переоцінюйте внутрішні здібності мавпочки.md",
+    "inbox/з відоса про проєкти/Задачі повинні бути свіжими.md",
+    "inbox/з відоса про проєкти/Задач не повинно бути багато.md",
+    "inbox/з відоса про проєкти/Задачі повині бути простими.md",
     "inbox/Краще почати не ідеально, а ніж бути паралізованим вірою в ідеальне.md",
+    "inbox/з відоса про проєкти",
+    "inbox/Шлях джедая/В стані стресу, тривоги та втоми нам все здається важливим.md",
     "inbox/Шлях джедая/Недостача сна робить нас більш реактивними.md",
     "inbox/Шлях джедая/Коли ми тривожемось ми більш уважні до повідомлень.md",
     "inbox/Auth/Auth через JWT.md",
@@ -329,20 +337,12 @@
     "Computer science/Auth",
     "inbox/knowledge/Дія веде до мотивації так само, як мотивація до дії.md",
     "inbox/knowledge/Шлях НЕ краще, а ніж результат.md",
-    "inbox/knowledge/Правило двох днів.md",
-    "Knowledge/Шлях яким ми йдемо до речей такий самий важливий, як ці речі.md",
-    "Knowledge/Робити що завгодно не складно. Складно почати це робити.md",
-    "Knowledge/Don't do more today than you can completely recover from by tomorrow.md",
-    "Knowledge/my/TDD підходить тільки коли ти розумієш що повинно бути на всі 110%.md",
     "inbox/knowledge",
-    "inbox/Languages and technologies/React/React Synchronizing with Effects.md",
-    "Computer science/Algorithms and Data structures/Big O notation/O(1).md",
     "inbox/Languages and technologies/React",
     "inbox/Languages and technologies/Event loop",
     "inbox/Languages and technologies",
     "inbox/Languages and technologies/TypeScript",
     "Knowledge/my",
-    "Excalidraw",
     "stuff/assets/Pasted image 20250330212255.png",
     "stuff/assets/Computer Science/Base/open-source.png",
     "stuff/assets/Computer Science/Base/closed-source.png",
