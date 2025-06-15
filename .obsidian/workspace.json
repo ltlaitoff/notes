@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/з відоса про проєкти/Нотатки по відосу.md",
+                "file": "inbox/I don't let myself fix anything before the whole project is done.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Нотатки по відосу"
+              "title": "I don't let myself fix anything before the whole project is done"
             }
           },
           {
@@ -306,8 +306,9 @@
   },
   "active": "0f908de68b0240e5",
   "lastOpenFiles": [
-    "inbox/з відоса про проєкти/Ідея - чи треба це взагалі робити.md",
     "inbox/з відоса про проєкти/Нотатки по відосу.md",
+    "inbox/I don't let myself fix anything before the whole project is done.md",
+    "inbox/з відоса про проєкти/Ідея - чи треба це взагалі робити.md",
     "inbox/з відоса про проєкти/Одна, максимум дві задачі з проєкту для мавпочки.md",
     "inbox/з відоса про проєкти/Не переоцінюйте внутрішні здібності мавпочки.md",
     "inbox/з відоса про проєкти/Задачі повинні бути свіжими.md",
@@ -336,7 +337,6 @@
     "inbox/Auth/to-check",
     "Computer science/Auth",
     "inbox/knowledge/Дія веде до мотивації так само, як мотивація до дії.md",
-    "inbox/knowledge/Шлях НЕ краще, а ніж результат.md",
     "inbox/knowledge",
     "inbox/Languages and technologies/React",
     "inbox/Languages and technologies/Event loop",
